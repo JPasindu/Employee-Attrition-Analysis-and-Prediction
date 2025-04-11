@@ -1,0 +1,1026 @@
+"","BusinessTravel","Department","State","MaritalStatus","Attrition","OverTime","EducationField_Grouped","Ethnicity_Grouped","Gender_Grouped","JobRole_Grouped","Education","StockOptionLevel","EnvironmentSatisfaction","JobSatisfaction","RelationshipSatisfaction","WorkLifeBalance","ManagerRating","Age","DistanceFromHome..KM.","Salary","YearsSinceLastPromotion","TrainingOpportunitiesWithinYear","TrainingOpportunitiesTaken"
+"2","Some Travel","Technology","CA","Married","No","No","STEM","Black","Male","AI/ML","2","0","4","5","5","4","4",30,6,126238,6,1,2
+"3","Some Travel","Sales","CA","Married","Yes","Yes","Business","White","Male","Sales","1","1","1","3","4","2","4",23,35,97824,1,3,2
+"4","Frequent Traveller","Technology","CA","Single","Yes","Yes","STEM","Black","Female","Software Engineer","1","0","3","4","5","3","4",30,44,68508,4,3,0
+"5","Frequent Traveller","Technology","CA","Single","Yes","No","Business","White","Female","AI/ML","1","0","1","2","2","2","4",30,37,109778,0,3,0
+"7","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","AI/ML","4","0","3","2","4","4","3",27,28,93291,2,3,3
+"8","Some Travel","Sales","CA","Married","No","Yes","STEM","White","Male","Sales","2","1","3","4","3","4","2",20,39,22558,1,2,0
+"10","Frequent Traveller","Technology","IL","Married","No","No","Business","Mixed/Other","Female","Software Engineer","3","0","5","3","2","5","3",32,14,86639,9,3,1
+"12","Frequent Traveller","Sales","CA","Married","Yes","No","STEM","White","Male","Sales","3","1","4","2","2","3","2",29,42,78726,1,2,0
+"13","Some Travel","Sales","IL","Married","No","Yes","Business","White","Female","Sales","4","0","3","5","4","2","2",23,7,72622,2,1,1
+"14","Some Travel","Sales","CA","Married","No","No","Business","Black","Male","Sales","4","2","3","4","5","2","3",32,39,105748,1,2,2
+"16","Some Travel","Technology","NY","Married","No","No","Other","White","Male","Software Engineer","4","2","4","5","5","3","2",23,8,42250,2,2,0
+"17","Some Travel","Technology","CA","Single","No","No","Other","White","Other","Software Engineer","4","0","3","5","3","5","3",22,30,44135,1,3,0
+"20","Some Travel","Technology","NY","Married","No","No","STEM","Black","Female","Software Engineer","3","1","4","2","4","5","2",34,41,50386,9,2,0
+"23","Frequent Traveller","Technology","NY","Married","No","No","STEM","White","Male","Management","3","1","5","4","3","3","5",39,42,495977,2,3,1
+"24","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Male","AI/ML","3","0","3","3","5","5","4",44,29,57890,8,1,0
+"25","Some Travel","Technology","CA","Single","No","No","Other","White","Male","Software Engineer","3","0","5","3","4","2","4",24,1,54501,4,1,2
+"26","Some Travel","Technology","CA","Married","No","No","Business","Mixed/Other","Female","Software Engineer","2","0","4","5","5","5","3",26,16,34630,6,1,1
+"27","Frequent Traveller","Sales","CA","Single","Yes","Yes","Business","Asian","Other","Sales","3","0","3","5","4","4","3",27,41,28984,1,1,3
+"28","Some Travel","Technology","NY","Single","No","No","STEM","White","Female","AI/ML","1","0","5","3","2","4","5",24,5,100818,3,1,0
+"29","No Travel ","Technology","CA","Married","No","Yes","STEM","Black","Female","Software Engineer","2","1","3","5","2","4","5",24,7,126527,5,1,2
+"30","Some Travel","Sales","CA","Divorced","Yes","Yes","Business","Mixed/Other","Male","Sales","2","2","3","2","4","2","2",25,4,57698,6,1,0
+"32","Some Travel","Sales","CA","Married","Yes","No","Business","White","Female","Sales","3","2","3","4","5","4","4",21,36,76057,0,1,1
+"33","Frequent Traveller","Sales","NY","Married","Yes","No","Business","White","Male","Sales","3","0","3","3","4","2","2",34,45,341971,0,3,0
+"35","Frequent Traveller","Technology","NY","Married","No","Yes","STEM","White","Female","Software Engineer","4","2","5","4","5","2","2",24,30,66110,2,3,3
+"36","Some Travel","Technology","CA","Single","Yes","No","STEM","White","Male","AI/ML","2","0","1","4","3","4","4",39,5,58685,6,3,0
+"37","No Travel ","Sales","NY","Divorced","No","Yes","Business","White","Male","Sales","4","1","4","3","3","2","3",25,35,149519,4,2,1
+"38","Some Travel","Sales","NY","Divorced","No","No","Business","White","Male","Management","2","1","4","4","3","4","4",44,40,285620,8,2,1
+"39","Some Travel","Technology","CA","Divorced","No","No","STEM","Asian","Male","AI/ML","3","1","5","3","3","3","2",26,18,54470,6,1,0
+"43","Some Travel","Technology","CA","Single","No","No","STEM","White","Other","Management","3","0","3","4","4","3","2",33,44,230945,2,1,0
+"44","No Travel ","Sales","NY","Married","No","No","Other","White","Male","Sales","4","0","5","4","2","4","4",47,17,176158,10,3,1
+"45","Some Travel","Technology","CA","Single","No","No","STEM","White","Other","Management","3","0","2","1","4","3","3",33,26,267009,1,3,2
+"47","Some Travel","Technology","NY","Single","Yes","No","STEM","White","Male","AI/ML","4","0","5","4","4","3","5",21,25,34634,1,3,1
+"48","Some Travel","Technology","NY","Married","No","No","STEM","Black","Female","Software Engineer","4","1","3","4","2","3","2",26,43,30217,4,3,0
+"49","Some Travel","Technology","NY","Married","No","Yes","STEM","Mixed/Other","Male","AI/ML","2","1","4","3","4","1","5",23,33,26198,4,2,0
+"51","Some Travel","Technology","CA","Single","Yes","Yes","Business","White","Female","Software Engineer","3","0","3","4","2","5","2",26,20,33273,1,3,0
+"52","No Travel ","Sales","CA","Single","No","Yes","STEM","Mixed/Other","Male","Sales","3","0","4","4","3","3","4",22,14,53014,3,1,2
+"53","Some Travel","Technology","NY","Married","No","No","STEM","Mixed/Other","Male","Software Engineer","4","2","3","2","3","4","4",25,28,29126,2,2,0
+"54","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","AI/ML","2","1","3","4","4","5","2",23,8,46850,4,3,0
+"55","Some Travel","Sales","CA","Single","No","No","Business","Mixed/Other","Female","Sales","3","0","3","3","3","4","5",24,33,91915,4,2,1
+"56","Frequent Traveller","Technology","CA","Single","No","Yes","STEM","White","Female","Management","4","0","4","4","1","3","4",39,25,300594,4,2,0
+"57","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","AI/ML","2","1","3","4","4","3","3",20,30,41179,0,1,0
+"58","Some Travel","Technology","NY","Married","No","No","STEM","White","Male","Software Engineer","4","2","3","2","3","2","3",24,1,70849,1,2,1
+"60","Some Travel","Sales","NY","Married","No","No","Business","White","Female","Sales","3","1","3","2","5","2","2",35,23,81389,7,2,0
+"61","Some Travel","Technology","NY","Married","No","No","STEM","White","Male","Software Engineer","4","0","3","4","2","2","2",22,18,68743,3,1,2
+"62","Some Travel","Technology","CA","Divorced","No","Yes","STEM","White","Male","Software Engineer","3","1","4","5","5","5","5",21,30,37164,3,1,0
+"64","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","AI/ML","1","0","5","3","3","4","4",48,25,47464,8,2,1
+"65","Frequent Traveller","Technology","CA","Married","No","No","STEM","Mixed/Other","Female","AI/ML","4","2","3","3","2","2","3",28,38,87704,3,3,1
+"66","Frequent Traveller","Human Resources","CA","Married","No","Yes","Other","Black","Male","HR","4","1","5","4","3","2","3",21,42,42303,2,1,1
+"67","Some Travel","Technology","CA","Single","Yes","No","STEM","Mixed/Other","Other","AI/ML","3","0","5","4","3","4","4",24,23,100586,4,1,1
+"68","Some Travel","Technology","IL","Married","No","Yes","STEM","White","Female","AI/ML","3","1","4","2","4","5","4",32,16,228427,1,2,3
+"69","Some Travel","Technology","CA","Divorced","Yes","No","Business","Asian","Female","AI/ML","3","1","4","2","4","2","3",29,44,67578,0,1,0
+"70","Some Travel","Technology","CA","Single","No","Yes","STEM","Black","Other","AI/ML","2","0","5","2","2","4","5",44,14,92634,9,2,1
+"71","No Travel ","Technology","CA","Single","No","Yes","Other","White","Female","Software Engineer","4","0","4","5","5","3","2",25,28,68762,5,2,0
+"72","Frequent Traveller","Technology","NY","Single","No","No","STEM","White","Male","AI/ML","2","0","5","3","2","4","3",25,35,28139,1,1,1
+"73","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","Software Engineer","3","1","5","5","2","4","4",31,21,127182,0,2,1
+"74","Some Travel","Technology","NY","Married","No","No","Business","Mixed/Other","Female","Software Engineer","3","1","2","2","4","3","2",25,22,53271,5,3,1
+"75","Frequent Traveller","Sales","NY","Single","No","Yes","Business","White","Male","Sales","2","1","3","3","4","2","5",19,14,74458,0,2,0
+"76","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","4","0","4","4","3","5","2",24,5,100576,0,3,0
+"77","Some Travel","Technology","CA","Single","No","No","STEM","Black","Female","Software Engineer","2","0","4","3","5","5","4",30,33,55485,9,2,1
+"79","No Travel ","Sales","CA","Divorced","No","No","Business","White","Female","Sales","4","2","3","2","4","4","4",24,30,28898,1,1,2
+"82","Some Travel","Sales","NY","Divorced","No","No","Business","White","Male","Sales","3","1","5","5","5","5","2",44,35,223619,2,2,0
+"83","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","2","1","4","5","4","4","5",19,24,31014,1,1,3
+"84","Some Travel","Technology","IL","Married","Yes","Yes","Other","Asian","Female","AI/ML","4","0","4","3","3","5","4",30,1,40285,1,1,0
+"86","Some Travel","Technology","IL","Married","No","No","STEM","White","Female","Software Engineer","4","1","4","4","3","3","4",22,40,66266,1,1,2
+"87","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","Software Engineer","4","2","4","4","5","2","4",27,31,120225,5,2,3
+"88","Frequent Traveller","Technology","CA","Married","No","Yes","STEM","White","Other","AI/ML","2","1","3","3","4","5","2",34,12,44057,7,3,0
+"90","Some Travel","Technology","CA","Single","Yes","No","STEM","Mixed/Other","Male","AI/ML","3","0","2","2","2","3","4",22,23,37021,1,2,1
+"91","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","3","0","4","3","2","4","4",41,22,235812,2,1,1
+"92","Some Travel","Technology","CA","Married","Yes","Yes","STEM","White","Male","Software Engineer","3","0","4","2","4","3","4",43,17,50946,7,1,1
+"93","Some Travel","Sales","CA","Married","No","Yes","STEM","Mixed/Other","Male","Management","2","1","4","3","3","3","4",39,38,300299,7,3,3
+"95","Some Travel","Sales","CA","Divorced","No","No","Business","Mixed/Other","Female","Sales","3","3","3","2","5","5","4",45,34,173037,9,3,1
+"97","Some Travel","Sales","CA","Married","No","Yes","Business","Mixed/Other","Other","Sales","3","0","5","3","4","3","2",24,22,53530,3,3,0
+"98","Some Travel","Technology","IL","Married","No","No","STEM","White","Female","Software Engineer","3","1","4","4","5","4","5",30,8,70771,9,3,0
+"99","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","Software Engineer","4","1","4","3","4","3","4",36,10,297181,2,3,1
+"100","Frequent Traveller","Sales","CA","Single","Yes","No","STEM","White","Female","Sales","1","0","5","2","3","4","4",48,2,37124,8,2,1
+"101","Some Travel","Technology","CA","Single","Yes","Yes","STEM","White","Female","Software Engineer","1","0","5","3","2","5","5",20,6,30714,1,3,0
+"102","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Female","Software Engineer","4","1","3","4","5","5","2",35,36,59086,8,1,1
+"103","Some Travel","Technology","IL","Married","No","No","STEM","White","Male","Management","3","0","3","3","4","2","4",37,29,513608,7,3,1
+"104","No Travel ","Technology","CA","Married","No","No","STEM","Mixed/Other","Female","AI/ML","3","0","3","3","5","2","3",41,22,52581,8,1,0
+"105","Some Travel","Technology","CA","Single","No","No","Business","Mixed/Other","Male","Software Engineer","3","0","5","5","2","2","3",36,10,189405,6,3,1
+"106","Some Travel","Technology","NY","Married","No","Yes","STEM","White","Other","AI/ML","1","2","4","5","2","2","3",22,16,78467,1,3,0
+"107","No Travel ","Sales","IL","Divorced","No","No","Business","White","Female","Sales","1","3","5","4","3","5","2",22,16,27053,2,2,0
+"108","Frequent Traveller","Technology","NY","Divorced","Yes","No","STEM","White","Male","Software Engineer","3","3","4","2","2","3","2",24,15,139627,4,3,1
+"109","Some Travel","Sales","NY","Single","No","No","Business","White","Female","Management","4","0","2","3","4","2","4",47,14,410970,5,1,1
+"111","No Travel ","Technology","IL","Divorced","No","Yes","STEM","White","Female","Software Engineer","1","1","4","5","4","2","3",36,35,356378,4,1,1
+"112","Some Travel","Technology","NY","Married","No","No","STEM","Asian","Other","AI/ML","3","2","4","2","3","3","4",27,4,60967,7,3,2
+"113","Some Travel","Sales","CA","Single","Yes","No","Business","Black","Male","Sales","4","0","3","4","3","5","5",27,1,30870,2,3,1
+"114","Frequent Traveller","Sales","CA","Single","Yes","Yes","Business","White","Female","Sales","2","0","3","4","5","3","2",34,15,173246,7,2,0
+"115","Some Travel","Technology","NY","Single","Yes","No","Other","Mixed/Other","Female","Software Engineer","1","0","3","2","3","1","3",31,14,63482,1,3,0
+"116","Some Travel","Sales","IL","Single","Yes","No","Business","Mixed/Other","Female","Sales","2","0","5","3","2","3","3",25,38,57018,0,2,0
+"117","Some Travel","Sales","IL","Single","No","No","Business","Asian","Female","Sales","3","0","1","1","2","4","3",39,37,65612,8,3,3
+"118","Some Travel","Sales","CA","Married","No","No","Business","Mixed/Other","Other","Sales","3","0","3","1","2","4","2",33,30,90726,5,1,2
+"119","Frequent Traveller","Technology","IL","Single","No","No","STEM","Asian","Female","AI/ML","2","0","5","2","3","3","3",33,34,91407,9,2,2
+"121","Frequent Traveller","Technology","NY","Married","No","Yes","STEM","White","Female","Management","3","0","3","5","2","4","3",46,24,514945,7,3,1
+"122","Some Travel","Technology","IL","Married","Yes","No","Business","White","Female","Management","3","0","1","3","1","4","3",38,10,303360,0,1,2
+"123","Some Travel","Technology","CA","Single","No","No","STEM","Black","Female","Software Engineer","3","0","3","3","2","4","2",48,17,65860,7,3,1
+"124","Some Travel","Sales","IL","Married","No","Yes","Business","White","Male","Sales","4","2","5","5","2","5","4",26,36,70455,1,2,2
+"125","Some Travel","Sales","CA","Married","Yes","No","Business","Black","Male","Sales","4","3","3","3","4","4","2",24,21,85118,0,1,1
+"126","Some Travel","Technology","NY","Single","Yes","Yes","STEM","Mixed/Other","Female","Software Engineer","3","0","3","5","4","2","3",26,37,26296,2,2,1
+"127","Frequent Traveller","Technology","CA","Divorced","No","Yes","STEM","White","Male","Management","1","1","5","5","2","4","4",31,38,547204,8,2,1
+"129","Some Travel","Sales","CA","Married","No","No","Business","Black","Female","Management","5","1","5","4","3","4","5",31,38,330940,3,1,0
+"130","Frequent Traveller","Sales","NY","Single","Yes","Yes","Business","Mixed/Other","Female","Sales","3","0","5","5","3","2","2",22,19,22122,2,3,0
+"131","Some Travel","Technology","CA","Married","No","No","STEM","Black","Male","AI/ML","3","1","4","3","3","3","4",30,19,53336,3,3,1
+"132","Some Travel","Technology","NY","Single","No","Yes","STEM","White","Female","Software Engineer","3","0","2","3","1","1","4",25,9,39636,5,2,1
+"135","Some Travel","Technology","CA","Single","Yes","Yes","STEM","White","Female","Management","4","0","3","2","3","3","4",39,42,539998,0,2,1
+"136","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Female","Software Engineer","2","0","3","3","4","2","5",40,38,380248,1,3,1
+"137","Some Travel","Sales","CA","Married","Yes","No","Business","Mixed/Other","Male","Sales","1","1","4","2","4","4","5",26,22,87142,1,1,0
+"138","Some Travel","Technology","CA","Married","No","Yes","STEM","Mixed/Other","Female","Management","4","2","4","5","4","2","3",26,37,107863,6,3,2
+"139","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Male","Software Engineer","3","1","4","4","5","5","4",34,24,42721,3,2,0
+"140","No Travel ","Technology","NY","Married","No","No","Business","Mixed/Other","Female","Software Engineer","4","2","4","4","2","3","3",25,27,28288,5,3,2
+"141","Frequent Traveller","Technology","NY","Divorced","No","No","STEM","Mixed/Other","Male","AI/ML","2","2","5","4","5","5","3",49,43,248115,3,2,0
+"142","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Male","Software Engineer","2","0","5","5","4","4","2",21,4,21158,1,2,1
+"144","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","Software Engineer","3","2","3","4","4","4","3",27,42,33606,0,1,1
+"145","Frequent Traveller","Technology","NY","Married","No","No","STEM","Mixed/Other","Other","Software Engineer","3","1","3","4","4","5","5",41,7,96632,8,1,2
+"146","Some Travel","Sales","NY","Married","No","No","Business","White","Other","Sales","3","2","4","4","3","4","3",26,5,107966,6,1,0
+"147","Frequent Traveller","Technology","CA","Married","Yes","Yes","STEM","Black","Female","Software Engineer","3","1","5","3","2","3","2",28,9,48930,6,1,0
+"148","No Travel ","Sales","CA","Married","Yes","No","Other","Black","Female","Sales","4","0","4","2","2","5","3",21,6,43259,0,1,1
+"149","Some Travel","Human Resources","CA","Married","No","No","HR","Mixed/Other","Male","HR","2","1","3","1","4","3","3",23,39,55805,3,3,0
+"150","Some Travel","Human Resources","CA","Single","No","Yes","Business","Asian","Female","HR","4","0","3","2","3","3","2",35,18,132563,6,2,0
+"151","Frequent Traveller","Technology","NY","Married","No","No","STEM","Mixed/Other","Male","Software Engineer","3","0","4","2","3","4","5",23,34,43009,2,1,2
+"152","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Other","Management","3","1","3","4","5","3","2",34,18,323488,1,1,2
+"153","Some Travel","Sales","CA","Single","No","No","Business","White","Female","Sales","4","0","3","5","4","5","4",25,28,167051,4,2,1
+"155","Some Travel","Sales","CA","Married","No","No","Other","White","Male","Sales","2","1","5","5","4","3","3",23,1,65489,1,1,0
+"156","Frequent Traveller","Technology","CA","Single","No","No","STEM","Mixed/Other","Female","AI/ML","3","0","4","4","2","5","3",35,28,222303,2,2,0
+"157","Some Travel","Technology","CA","Married","No","Yes","STEM","Black","Male","Software Engineer","4","3","1","3","1","2","3",46,11,56608,5,1,1
+"158","Some Travel","Technology","NY","Single","No","No","Other","Asian","Female","AI/ML","2","0","2","2","3","2","3",24,26,39048,4,2,1
+"159","Some Travel","Technology","IL","Divorced","No","No","STEM","Asian","Female","Software Engineer","1","2","5","2","3","3","5",22,31,43588,3,1,1
+"160","Some Travel","Technology","NY","Divorced","Yes","Yes","Business","White","Female","AI/ML","3","2","2","3","2","1","4",29,3,60388,3,1,2
+"161","No Travel ","Technology","NY","Married","No","No","STEM","White","Male","Software Engineer","4","1","5","2","2","4","2",32,12,111294,9,2,0
+"162","Frequent Traveller","Technology","CA","Divorced","No","No","STEM","White","Male","Software Engineer","4","1","4","1","2","3","3",24,44,61230,3,2,1
+"164","Frequent Traveller","Technology","CA","Divorced","No","No","STEM","White","Male","Management","3","2","3","4","5","2","2",50,43,339245,0,3,2
+"165","Frequent Traveller","Human Resources","CA","Single","No","No","HR","Mixed/Other","Male","HR","1","0","4","3","3","4","5",41,39,79990,5,1,1
+"167","Some Travel","Technology","IL","Married","No","No","STEM","White","Female","Management","3","0","3","4","3","2","5",25,13,211401,1,3,1
+"168","Frequent Traveller","Technology","CA","Divorced","No","No","STEM","White","Female","Software Engineer","1","2","3","3","3","1","3",28,6,47148,8,2,3
+"169","Some Travel","Technology","IL","Single","No","No","Business","White","Male","AI/ML","1","0","5","2","5","5","3",20,27,27141,1,1,0
+"172","Some Travel","Technology","IL","Divorced","No","No","STEM","Asian","Male","Software Engineer","2","2","3","5","3","5","2",22,37,52314,3,1,1
+"173","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","Software Engineer","3","0","3","3","3","2","3",36,4,208338,10,1,1
+"174","Some Travel","Sales","IL","Divorced","Yes","No","Business","Mixed/Other","Other","Sales","3","1","3","3","3","5","4",28,38,185380,5,3,2
+"175","Some Travel","Sales","NY","Divorced","No","Yes","Business","Mixed/Other","Other","Sales","1","1","1","1","1","3","3",41,33,119592,8,2,0
+"176","Some Travel","Sales","CA","Divorced","No","No","STEM","Asian","Female","Sales","3","1","5","3","3","5","3",27,36,173994,5,2,0
+"177","Some Travel","Technology","NY","Married","No","No","STEM","Asian","Male","Software Engineer","4","0","5","5","3","2","3",25,1,72840,6,2,1
+"178","Some Travel","Technology","CA","Single","No","Yes","Other","White","Other","AI/ML","2","0","5","5","5","2","4",19,25,50352,1,2,1
+"180","Some Travel","Technology","CA","Married","No","No","Business","Black","Male","AI/ML","1","1","4","2","4","2","3",40,22,38849,6,2,0
+"182","Some Travel","Sales","CA","Single","No","No","Business","Black","Male","Sales","2","0","3","5","4","2","3",26,16,113512,7,2,1
+"184","Some Travel","Technology","NY","Married","No","No","STEM","Asian","Other","AI/ML","4","1","5","3","2","2","5",22,10,28953,1,1,0
+"185","Some Travel","Technology","NY","Single","No","No","STEM","White","Female","Software Engineer","2","0","3","3","4","2","4",34,14,154405,7,3,2
+"187","Some Travel","Technology","IL","Single","No","No","STEM","Black","Female","Software Engineer","4","0","5","2","4","4","4",33,40,181244,8,3,3
+"190","Some Travel","Sales","CA","Divorced","No","No","STEM","Mixed/Other","Other","Sales","3","1","4","5","2","3","3",26,38,104898,5,2,1
+"191","Some Travel","Technology","IL","Divorced","No","No","STEM","Black","Male","AI/ML","3","1","5","5","3","2","4",21,35,51682,3,2,1
+"192","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Female","Software Engineer","4","1","5","2","3","3","4",27,40,112728,6,3,0
+"194","Some Travel","Sales","NY","Married","No","No","Business","White","Male","Sales","3","1","3","2","2","5","4",23,33,30477,3,1,1
+"197","No Travel ","Sales","CA","Married","No","No","Business","Mixed/Other","Male","Sales","3","1","5","5","5","2","5",22,17,58270,1,2,0
+"198","Frequent Traveller","Sales","CA","Married","Yes","Yes","Business","White","Other","Sales","4","1","3","2","4","4","4",29,31,100925,1,1,1
+"199","Some Travel","Technology","CA","Single","No","Yes","STEM","Mixed/Other","Male","Software Engineer","3","0","4","4","2","4","3",27,44,45276,6,3,2
+"200","Frequent Traveller","Technology","NY","Single","No","No","STEM","Mixed/Other","Male","Software Engineer","4","0","4","5","4","4","3",22,15,40115,3,1,0
+"201","Some Travel","Sales","CA","Married","No","No","Business","Mixed/Other","Male","Sales","2","1","4","4","3","4","5",24,13,64852,5,2,0
+"203","Some Travel","Technology","CA","Divorced","No","No","Business","Mixed/Other","Other","AI/ML","3","2","3","5","2","2","2",25,4,39456,5,1,0
+"204","Some Travel","Technology","NY","Divorced","Yes","Yes","STEM","Black","Male","AI/ML","4","1","3","4","5","4","2",26,3,28952,0,3,2
+"205","Some Travel","Technology","IL","Single","No","Yes","STEM","Black","Male","AI/ML","3","0","2","3","4","1","5",24,36,93015,2,3,1
+"206","Some Travel","Sales","CA","Single","No","No","Business","Mixed/Other","Male","Sales","3","0","4","4","4","3","3",24,16,116132,4,2,0
+"207","Some Travel","Technology","NY","Single","No","Yes","STEM","Mixed/Other","Female","AI/ML","5","0","5","4","4","5","5",47,5,133616,9,3,0
+"208","No Travel ","Technology","CA","Single","No","No","Business","Asian","Female","AI/ML","2","0","4","1","3","4","4",27,34,30783,7,2,0
+"209","No Travel ","Technology","NY","Married","No","No","STEM","White","Male","Management","1","2","3","2","2","2","3",24,19,115110,3,3,0
+"211","Frequent Traveller","Sales","CA","Married","No","No","Business","Black","Female","Sales","2","1","3","4","2","3","4",35,43,46112,7,3,0
+"212","Some Travel","Technology","CA","Divorced","No","No","STEM","Black","Other","Management","5","1","4","4","5","3","5",41,11,372980,2,3,1
+"213","Frequent Traveller","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","4","0","4","4","4","2","3",38,2,58828,8,1,0
+"214","Some Travel","Technology","NY","Single","Yes","No","STEM","White","Female","AI/ML","4","0","3","4","2","5","4",24,13,30117,1,1,1
+"215","Some Travel","Sales","NY","Divorced","No","Yes","Business","White","Male","Sales","1","1","4","2","4","2","4",29,39,183768,3,2,1
+"216","Some Travel","Sales","IL","Married","No","No","Business","White","Male","Sales","4","1","4","4","2","2","3",45,19,47326,10,1,2
+"217","Some Travel","Sales","CA","Divorced","No","Yes","Business","White","Female","Sales","3","1","3","5","5","5","3",23,35,45518,3,3,3
+"219","Frequent Traveller","Technology","CA","Single","No","Yes","STEM","White","Other","AI/ML","4","0","5","3","4","2","4",45,17,123619,9,3,1
+"221","Frequent Traveller","Technology","NY","Single","No","Yes","STEM","Mixed/Other","Female","Management","5","0","3","2","3","3","3",35,38,310285,4,1,1
+"222","Some Travel","Technology","IL","Single","No","No","STEM","White","Male","Software Engineer","1","0","5","3","5","2","4",48,44,103198,9,1,0
+"223","Some Travel","Technology","CA","Married","No","Yes","STEM","Mixed/Other","Other","Software Engineer","2","0","5","4","2","2","3",35,19,187372,1,2,1
+"224","Some Travel","Technology","CA","Single","No","No","Business","White","Male","AI/ML","2","0","2","2","1","4","4",30,45,262409,9,2,1
+"225","Some Travel","Technology","NY","Single","Yes","No","Business","Asian","Other","Software Engineer","3","0","5","3","5","2","3",23,7,28753,1,1,0
+"226","Frequent Traveller","Sales","CA","Married","No","No","Business","White","Female","Sales","3","1","3","3","3","2","5",29,13,126008,2,1,0
+"227","Some Travel","Sales","IL","Divorced","No","Yes","Business","Mixed/Other","Male","Sales","2","1","3","3","2","3","4",22,29,58992,3,1,1
+"229","Some Travel","Technology","CA","Single","Yes","Yes","STEM","Mixed/Other","Male","AI/ML","3","0","5","3","3","4","3",22,3,34753,0,2,2
+"230","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Female","Software Engineer","3","1","5","4","4","5","3",24,45,30390,2,2,0
+"231","Some Travel","Sales","CA","Married","No","No","Business","White","Male","Management","3","0","5","4","5","5","2",44,21,426142,5,1,0
+"232","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Male","Management","2","3","4","4","3","4","4",26,31,148211,6,3,0
+"233","Some Travel","Sales","CA","Married","No","No","Business","Asian","Male","Management","5","1","4","2","1","3","2",36,13,432191,8,3,3
+"234","Frequent Traveller","Technology","CA","Single","No","Yes","STEM","Black","Male","Software Engineer","3","0","3","4","5","2","3",44,18,102708,4,3,2
+"235","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","Software Engineer","4","3","3","2","3","5","3",24,12,22965,4,3,2
+"236","Some Travel","Technology","CA","Single","Yes","Yes","Business","Mixed/Other","Male","AI/ML","3","0","5","5","5","5","4",23,25,37121,0,3,1
+"237","Some Travel","Technology","CA","Married","No","No","Business","White","Other","Software Engineer","4","1","4","3","5","2","5",42,12,167089,9,3,0
+"238","Frequent Traveller","Technology","CA","Married","Yes","Yes","STEM","Black","Female","AI/ML","3","1","4","2","1","1","3",29,17,105554,5,3,0
+"239","Some Travel","Technology","NY","Single","No","Yes","STEM","White","Male","Software Engineer","5","0","5","4","2","5","3",24,23,92798,4,3,1
+"241","Some Travel","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Female","Management","2","1","5","3","2","3","2",27,30,240633,6,2,1
+"242","Some Travel","Sales","IL","Divorced","No","No","Business","White","Female","Sales","5","1","4","2","4","2","4",30,27,102059,9,1,0
+"243","Some Travel","Sales","NY","Married","No","Yes","Business","White","Male","Sales","2","3","3","2","5","5","4",23,44,100314,3,3,2
+"244","Some Travel","Technology","NY","Married","No","No","STEM","White","Female","Software Engineer","2","1","3","3","4","2","2",43,21,94499,1,3,0
+"245","Frequent Traveller","Technology","NY","Married","No","Yes","STEM","Black","Female","AI/ML","3","1","4","2","5","2","3",38,31,90187,5,3,0
+"247","Frequent Traveller","Technology","CA","Married","No","No","Business","White","Male","Software Engineer","4","1","5","5","4","4","4",28,7,140538,5,3,1
+"248","Some Travel","Technology","NY","Single","No","No","STEM","White","Female","Software Engineer","4","0","3","3","3","2","5",21,19,25114,1,1,0
+"249","Frequent Traveller","Technology","CA","Married","No","Yes","STEM","White","Male","Software Engineer","2","1","5","5","5","2","3",21,33,37954,0,1,1
+"251","Frequent Traveller","Technology","IL","Married","No","Yes","STEM","White","Female","Software Engineer","3","1","4","2","4","4","4",26,5,99203,3,2,1
+"252","Some Travel","Technology","CA","Married","Yes","No","STEM","Mixed/Other","Female","AI/ML","2","1","5","5","2","4","4",37,6,42188,5,3,1
+"253","No Travel ","Sales","CA","Single","Yes","Yes","Business","White","Male","Sales","3","0","2","1","2","1","3",24,8,82405,4,3,3
+"254","Some Travel","Technology","CA","Married","No","Yes","STEM","Asian","Male","Software Engineer","2","1","5","5","5","4","3",21,18,29558,3,3,0
+"255","Some Travel","Sales","CA","Single","Yes","No","Business","White","Female","Sales","3","0","4","2","2","4","3",24,16,25102,0,1,3
+"256","Some Travel","Technology","NY","Married","No","No","STEM","White","Male","Management","2","1","5","2","4","3","3",25,11,285138,3,3,1
+"257","Some Travel","Technology","NY","Single","No","No","Business","White","Female","Software Engineer","3","0","4","3","4","2","3",21,4,67900,3,2,3
+"258","Frequent Traveller","Technology","CA","Married","Yes","Yes","STEM","Mixed/Other","Female","AI/ML","3","1","4","5","2","3","2",28,4,65659,0,3,0
+"259","Frequent Traveller","Technology","CA","Married","No","Yes","Other","White","Female","Software Engineer","4","0","2","1","1","4","5",26,16,62602,3,1,1
+"261","Frequent Traveller","Sales","IL","Married","No","No","STEM","Black","Female","Sales","2","1","5","3","3","3","2",25,21,91332,3,3,0
+"262","Frequent Traveller","Technology","CA","Divorced","No","No","STEM","White","Male","Software Engineer","3","1","4","5","5","5","3",23,40,79724,2,3,0
+"263","Some Travel","Technology","CA","Single","No","No","STEM","Black","Other","Software Engineer","2","0","4","5","4","5","3",24,26,34657,5,2,1
+"264","Some Travel","Technology","NY","Married","No","Yes","STEM","Black","Male","Software Engineer","3","2","4","4","3","5","4",23,12,35776,3,3,0
+"265","Some Travel","Sales","IL","Married","No","Yes","Business","White","Female","Sales","3","1","4","4","5","3","4",37,20,195447,3,2,1
+"267","Some Travel","Technology","IL","Single","Yes","No","STEM","White","Male","AI/ML","4","0","5","4","2","4","2",21,19,25255,0,2,3
+"268","Frequent Traveller","Sales","NY","Married","No","No","Business","White","Female","Sales","3","1","3","3","4","5","3",32,22,142488,6,2,1
+"269","Some Travel","Human Resources","CA","Married","No","No","HR","White","Female","HR","3","1","5","5","5","4","5",27,40,34320,6,2,0
+"271","Some Travel","Sales","CA","Single","No","No","Business","Mixed/Other","Female","Sales","3","0","3","2","5","2","4",25,4,48917,4,1,0
+"272","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Male","Software Engineer","3","1","4","2","5","5","3",29,33,153909,10,2,0
+"274","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","Software Engineer","3","0","4","3","2","2","4",27,1,31450,5,2,1
+"275","Some Travel","Technology","CA","Divorced","No","No","Other","White","Male","Software Engineer","4","3","4","5","2","2","4",25,44,52210,1,3,0
+"276","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","Software Engineer","3","1","4","4","4","5","3",25,5,28646,6,2,0
+"277","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","Software Engineer","3","2","5","4","3","2","2",24,26,80374,4,1,1
+"278","No Travel ","Sales","CA","Divorced","No","Yes","Business","Black","Female","Sales","3","1","3","5","4","3","2",24,14,52975,3,2,1
+"279","Frequent Traveller","Technology","CA","Single","Yes","No","STEM","White","Female","AI/ML","2","0","4","1","1","3","4",23,28,57133,0,2,1
+"280","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","Software Engineer","1","1","4","5","2","4","2",37,33,236732,2,3,1
+"281","No Travel ","Technology","CA","Divorced","No","No","STEM","White","Male","AI/ML","3","3","4","4","3","2","3",33,26,43998,7,1,0
+"282","Some Travel","Technology","CA","Married","No","No","Business","White","Female","Software Engineer","3","1","3","2","2","5","5",24,3,41664,4,3,1
+"283","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","Software Engineer","2","0","5","2","5","4","4",22,6,70766,2,3,2
+"284","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Male","Software Engineer","4","1","4","5","2","4","4",24,7,85074,2,1,0
+"285","Some Travel","Sales","CA","Divorced","No","No","Other","Mixed/Other","Female","Sales","2","1","3","3","3","3","4",40,3,104426,4,1,2
+"286","Some Travel","Technology","CA","Single","Yes","Yes","STEM","White","Female","Software Engineer","2","0","2","4","1","4","2",31,20,59697,6,2,2
+"287","Frequent Traveller","Technology","CA","Single","No","No","STEM","Black","Female","Management","3","0","4","4","2","4","2",40,19,513325,0,2,0
+"288","Some Travel","Sales","CA","Married","No","No","Business","White","Male","Management","3","1","4","2","3","5","3",45,20,374781,1,2,2
+"289","Some Travel","Sales","IL","Married","No","No","Business","Black","Male","Sales","4","1","3","3","2","3","5",38,20,147098,8,3,1
+"290","Some Travel","Sales","CA","Married","No","No","Business","Black","Male","Sales","4","1","4","4","3","3","4",25,2,75555,6,3,0
+"291","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Female","Management","2","1","3","5","5","4","3",27,3,137012,7,3,1
+"292","Frequent Traveller","Sales","CA","Married","No","Yes","Business","Mixed/Other","Female","Management","2","2","5","2","5","4","4",34,30,311448,2,2,0
+"293","Some Travel","Technology","CA","Single","No","No","STEM","White","Male","AI/ML","2","0","3","4","3","3","4",23,30,24518,2,3,1
+"294","Some Travel","Sales","IL","Single","Yes","No","Business","White","Male","Sales","3","0","3","4","5","2","2",23,12,84985,0,1,0
+"295","Some Travel","Technology","IL","Married","Yes","No","STEM","Black","Female","Software Engineer","2","0","5","2","4","4","4",20,45,41877,0,1,1
+"296","No Travel ","Technology","CA","Married","No","Yes","STEM","White","Female","AI/ML","4","3","5","4","4","4","5",24,29,158330,3,2,3
+"297","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Other","AI/ML","4","1","3","3","4","3","5",40,40,265523,3,2,1
+"298","Some Travel","Technology","IL","Divorced","No","No","STEM","White","Male","AI/ML","4","2","4","2","3","5","2",48,26,35749,7,3,0
+"299","Some Travel","Technology","CA","Single","No","No","STEM","White","Male","Management","1","0","3","3","5","3","2",31,19,371727,3,3,1
+"300","Some Travel","Sales","CA","Single","No","No","Business","Mixed/Other","Male","Sales","4","0","3","5","2","4","5",24,27,79828,3,3,0
+"301","Some Travel","Sales","NY","Divorced","No","Yes","Business","White","Male","Sales","5","2","3","2","1","4","2",35,29,182764,9,2,1
+"302","Some Travel","Sales","NY","Married","No","No","Business","White","Male","Sales","2","1","3","5","5","5","5",23,9,33750,2,3,1
+"303","No Travel ","Technology","CA","Married","No","Yes","STEM","White","Female","Software Engineer","5","2","5","5","2","4","2",21,24,53912,1,2,2
+"305","Some Travel","Technology","NY","Married","No","Yes","STEM","White","Male","AI/ML","4","1","1","4","3","1","2",20,25,40341,1,3,1
+"306","Some Travel","Technology","CA","Single","No","Yes","STEM","White","Female","Software Engineer","3","0","5","3","4","4","2",39,31,90017,7,1,1
+"308","Frequent Traveller","Technology","CA","Married","No","No","STEM","Mixed/Other","Female","Software Engineer","3","1","4","3","2","2","5",25,17,54566,6,2,1
+"311","Some Travel","Sales","NY","Married","No","No","Business","Mixed/Other","Female","Sales","4","1","3","2","5","5","3",23,8,78937,3,3,0
+"312","Some Travel","Sales","CA","Single","No","No","Other","White","Male","Sales","3","0","4","5","4","3","5",47,17,106840,4,3,2
+"313","Frequent Traveller","Technology","CA","Married","No","No","STEM","Asian","Female","AI/ML","1","1","5","3","5","5","2",26,42,56966,5,2,3
+"314","Frequent Traveller","Sales","CA","Single","Yes","No","STEM","Mixed/Other","Male","Sales","3","0","3","5","3","4","4",23,31,23505,0,2,0
+"317","Some Travel","Technology","CA","Married","No","No","Other","Mixed/Other","Male","Management","3","1","4","3","2","3","2",32,15,393294,2,1,1
+"318","Some Travel","Sales","CA","Married","No","No","Business","White","Female","Management","4","0","4","4","2","4","2",43,12,513262,3,2,3
+"319","Some Travel","Human Resources","CA","Single","Yes","No","STEM","White","Female","HR","2","0","3","4","3","5","2",29,29,49606,1,1,2
+"321","Some Travel","Sales","NY","Married","No","No","Business","White","Female","Sales","3","1","5","5","5","5","3",29,8,163950,3,1,1
+"322","No Travel ","Technology","CA","Married","No","No","STEM","Mixed/Other","Male","Software Engineer","1","1","5","4","5","3","2",34,25,238630,3,1,0
+"323","Frequent Traveller","Technology","NY","Married","No","No","STEM","White","Male","Management","4","2","3","2","4","5","3",40,2,260835,2,3,2
+"324","Some Travel","Technology","CA","Divorced","No","No","Business","White","Female","Management","4","1","3","3","4","5","3",48,9,517695,2,1,0
+"325","Some Travel","Technology","CA","Single","No","No","STEM","Asian","Female","Software Engineer","1","0","4","5","5","3","2",32,39,68256,9,2,1
+"326","Frequent Traveller","Technology","NY","Divorced","No","Yes","STEM","Mixed/Other","Female","AI/ML","4","0","3","4","1","4","3",26,28,79324,3,2,1
+"327","Frequent Traveller","Sales","NY","Married","No","No","Business","White","Female","Sales","1","1","4","2","2","2","3",23,26,44646,2,3,0
+"328","Frequent Traveller","Sales","CA","Divorced","Yes","No","Business","Mixed/Other","Male","Sales","2","1","2","4","3","4","3",30,40,44632,0,2,0
+"329","Some Travel","Sales","NY","Single","No","No","Business","Black","Female","Sales","3","0","3","2","5","4","3",26,29,28024,7,3,1
+"330","Some Travel","Sales","CA","Married","No","No","Business","Mixed/Other","Male","Sales","2","2","1","3","1","4","4",25,44,75635,2,2,1
+"331","Some Travel","Technology","IL","Single","No","No","STEM","Mixed/Other","Male","AI/ML","3","0","3","2","3","3","2",37,29,155506,8,1,2
+"332","Some Travel","Technology","IL","Divorced","No","No","STEM","Mixed/Other","Male","Software Engineer","3","1","5","5","2","3","3",22,11,74314,1,1,1
+"334","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","AI/ML","1","1","4","5","2","2","5",30,7,70182,9,3,3
+"335","Some Travel","Sales","CA","Married","Yes","No","STEM","Black","Male","Sales","3","1","4","4","2","3","5",26,45,20650,0,3,0
+"336","Some Travel","Technology","CA","Single","Yes","No","STEM","Black","Male","Software Engineer","4","0","1","4","1","4","3",21,34,61758,0,3,0
+"337","Some Travel","Sales","CA","Married","Yes","No","Business","White","Female","Sales","3","3","3","4","4","4","2",28,13,207479,0,1,2
+"338","Some Travel","Technology","NY","Married","No","Yes","STEM","White","Female","Software Engineer","1","0","2","3","3","4","3",45,20,90264,4,3,0
+"339","Some Travel","Technology","CA","Married","Yes","No","STEM","Mixed/Other","Other","Software Engineer","2","1","5","5","4","5","5",29,25,145716,1,3,1
+"340","Some Travel","Sales","NY","Single","No","No","Business","Mixed/Other","Female","Sales","1","0","5","4","4","5","4",42,36,43753,1,1,0
+"341","Some Travel","Sales","NY","Married","No","No","Business","Mixed/Other","Male","Sales","2","1","4","3","4","5","3",28,24,78735,2,2,3
+"342","Some Travel","Technology","CA","Married","No","No","Business","Mixed/Other","Female","Management","3","1","4","5","5","5","5",26,22,206137,1,3,1
+"343","Some Travel","Technology","CA","Married","No","No","STEM","Mixed/Other","Male","Management","4","0","3","5","4","3","5",30,36,328415,10,2,2
+"345","Frequent Traveller","Technology","CA","Single","No","No","STEM","Mixed/Other","Male","Software Engineer","4","0","3","3","2","2","3",27,16,75275,5,1,0
+"346","Frequent Traveller","Sales","IL","Married","No","No","Business","Asian","Male","Sales","3","0","5","5","5","2","3",34,40,140097,8,3,0
+"347","Some Travel","Technology","CA","Married","No","No","STEM","Mixed/Other","Male","Management","5","1","4","5","2","4","3",26,28,246505,3,2,1
+"348","Some Travel","Technology","IL","Married","No","No","STEM","White","Other","Management","3","0","1","4","3","3","3",39,12,293132,10,2,2
+"349","Frequent Traveller","Technology","CA","Married","No","No","STEM","White","Other","Software Engineer","1","0","4","2","5","4","4",43,37,199718,2,1,1
+"350","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","Software Engineer","2","1","3","5","5","2","4",26,31,56187,2,2,1
+"352","Some Travel","Sales","IL","Married","No","Yes","Business","White","Female","Sales","4","0","5","5","4","3","3",23,40,52039,1,2,0
+"354","Some Travel","Technology","IL","Married","Yes","Yes","STEM","White","Female","AI/ML","2","0","3","5","2","3","2",21,15,62882,0,3,1
+"355","Some Travel","Technology","CA","Single","No","Yes","STEM","White","Female","AI/ML","4","2","4","1","4","3","5",19,44,42900,1,3,1
+"356","No Travel ","Sales","CA","Divorced","No","No","Business","Black","Male","Management","3","1","3","4","2","3","3",24,6,135407,4,3,0
+"358","Frequent Traveller","Technology","CA","Single","No","Yes","STEM","Asian","Other","Software Engineer","4","0","1","4","2","4","4",39,8,137427,10,3,2
+"359","Some Travel","Technology","NY","Divorced","No","No","Business","Mixed/Other","Male","Software Engineer","4","3","4","2","2","5","4",41,28,184411,5,3,0
+"360","Frequent Traveller","Sales","NY","Married","No","No","Business","Black","Male","Sales","3","1","3","3","3","4","3",45,1,70487,7,2,1
+"361","No Travel ","Human Resources","IL","Married","No","No","Business","White","Female","HR","5","1","3","4","2","5","2",28,4,152909,3,1,1
+"362","Some Travel","Technology","CA","Married","Yes","Yes","STEM","Black","Male","AI/ML","4","2","4","5","5","3","5",26,6,89771,0,2,1
+"363","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","Management","3","0","1","1","3","2","3",35,26,311475,0,2,1
+"364","Some Travel","Sales","CA","Divorced","Yes","No","Business","White","Female","Sales","4","0","4","5","5","3","5",32,29,68043,1,2,0
+"365","Some Travel","Technology","NY","Married","No","No","STEM","White","Male","Software Engineer","3","1","3","3","4","3","4",21,5,25060,1,1,0
+"366","Frequent Traveller","Technology","NY","Divorced","Yes","Yes","STEM","White","Male","Software Engineer","3","0","3","2","2","3","5",23,10,44566,0,2,2
+"367","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","Software Engineer","3","1","3","5","5","4","3",24,18,29722,3,3,2
+"369","Some Travel","Technology","CA","Divorced","No","Yes","STEM","White","Female","AI/ML","3","1","4","5","4","4","3",24,30,94318,6,2,0
+"370","Frequent Traveller","Technology","CA","Single","No","Yes","Business","White","Other","Software Engineer","1","0","4","2","3","2","4",39,4,87879,8,3,2
+"371","Some Travel","Technology","CA","Single","No","No","STEM","Black","Male","Management","4","0","5","4","5","3","4",33,4,335261,5,1,1
+"372","Some Travel","Sales","CA","Divorced","No","Yes","Business","White","Female","Sales","2","3","5","2","4","4","4",24,43,54841,4,3,0
+"373","Some Travel","Technology","CA","Married","Yes","Yes","STEM","White","Female","Software Engineer","1","0","4","4","3","5","3",21,38,63049,0,3,1
+"374","No Travel ","Technology","CA","Single","No","No","STEM","Black","Female","AI/ML","3","0","3","4","3","5","4",25,11,96779,0,3,1
+"375","Frequent Traveller","Technology","NY","Single","Yes","Yes","STEM","Black","Male","Software Engineer","2","0","3","3","4","3","3",24,34,28484,1,3,0
+"376","Some Travel","Sales","CA","Divorced","No","No","Business","White","Male","Sales","2","1","3","2","2","4","4",43,39,176705,7,3,0
+"377","Some Travel","Technology","CA","Single","No","No","STEM","White","Male","AI/ML","2","0","5","3","2","5","5",21,43,71698,3,2,2
+"378","Frequent Traveller","Sales","NY","Single","No","No","Business","White","Male","Sales","2","0","2","2","4","4","5",21,42,46750,0,2,0
+"379","Some Travel","Human Resources","CA","Married","Yes","No","HR","Mixed/Other","Female","HR","1","1","4","4","3","5","5",25,14,22150,1,2,0
+"381","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","AI/ML","4","3","5","2","2","3","5",23,32,47294,2,1,1
+"383","Some Travel","Sales","IL","Married","No","No","Business","White","Male","Sales","3","1","3","4","5","2","2",46,38,325452,4,1,0
+"384","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Other","Software Engineer","1","1","5","2","5","5","2",26,16,54746,4,3,2
+"385","Some Travel","Technology","NY","Single","No","Yes","STEM","White","Male","Software Engineer","3","0","4","2","5","5","5",24,24,28156,6,2,0
+"386","Some Travel","Sales","IL","Single","Yes","Yes","Business","Black","Female","Sales","3","0","3","4","5","3","5",25,11,53930,3,1,2
+"387","Frequent Traveller","Sales","NY","Divorced","No","Yes","Business","Mixed/Other","Other","Sales","3","2","1","2","1","3","2",48,9,288450,6,3,2
+"390","Some Travel","Sales","CA","Married","No","Yes","Business","Black","Female","Sales","4","3","3","5","4","5","5",42,20,241646,1,2,0
+"391","No Travel ","Technology","NY","Married","No","No","STEM","Black","Female","Management","3","1","5","4","2","3","2",32,12,316725,10,1,3
+"392","No Travel ","Technology","CA","Divorced","No","Yes","STEM","Asian","Female","Software Engineer","4","1","3","1","4","1","3",24,26,77358,0,1,1
+"393","Some Travel","Technology","CA","Married","Yes","Yes","STEM","Black","Female","Software Engineer","4","3","5","3","4","5","2",22,31,75738,2,1,2
+"394","Some Travel","Technology","CA","Divorced","No","Yes","STEM","White","Female","Management","4","2","3","5","4","4","4",38,10,445906,1,2,1
+"395","Some Travel","Sales","CA","Single","Yes","Yes","Business","White","Male","Management","3","0","5","5","5","2","3",29,44,377203,4,2,1
+"397","Frequent Traveller","Technology","CA","Divorced","Yes","No","STEM","Mixed/Other","Male","AI/ML","3","2","5","3","3","4","2",26,45,108865,0,1,0
+"398","No Travel ","Sales","NY","Married","No","No","Business","White","Female","Sales","2","1","5","5","2","4","3",31,7,186215,1,2,1
+"399","Some Travel","Technology","NY","Single","Yes","No","STEM","Black","Other","Software Engineer","3","0","5","4","3","5","4",29,24,41307,0,2,2
+"401","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Male","AI/ML","4","1","4","3","5","4","4",30,14,194823,9,2,2
+"403","Some Travel","Technology","CA","Married","Yes","Yes","STEM","Mixed/Other","Male","AI/ML","1","0","2","4","3","2","4",30,4,42045,3,3,0
+"404","Some Travel","Sales","NY","Single","No","No","Business","Asian","Male","Sales","3","0","5","3","3","3","3",44,27,101906,4,3,1
+"405","Frequent Traveller","Technology","CA","Divorced","Yes","Yes","STEM","Mixed/Other","Male","Software Engineer","4","1","5","3","2","4","2",30,13,40321,0,3,1
+"406","No Travel ","Technology","CA","Divorced","No","No","STEM","White","Female","AI/ML","2","1","4","3","5","5","2",48,40,92884,9,3,1
+"407","Frequent Traveller","Technology","CA","Single","Yes","No","STEM","White","Male","AI/ML","2","0","3","2","3","3","3",21,16,42569,0,1,0
+"408","Some Travel","Sales","NY","Divorced","No","No","Business","Mixed/Other","Male","Sales","4","1","3","3","4","1","4",28,43,157549,0,2,0
+"409","Some Travel","Technology","CA","Single","No","No","STEM","White","Male","Software Engineer","3","0","3","3","4","5","4",24,11,57054,4,2,1
+"411","No Travel ","Technology","NY","Married","No","No","STEM","White","Male","AI/ML","1","0","5","5","5","4","5",43,14,76331,4,2,3
+"412","Some Travel","Technology","CA","Single","Yes","Yes","STEM","White","Female","AI/ML","1","0","5","2","4","5","3",27,30,49374,0,2,3
+"413","No Travel ","Technology","NY","Married","No","No","STEM","White","Male","Software Engineer","2","1","3","5","4","2","4",28,44,218406,10,2,1
+"414","Frequent Traveller","Technology","NY","Single","Yes","No","STEM","Mixed/Other","Female","AI/ML","2","0","5","4","3","5","3",31,4,69747,5,1,2
+"415","No Travel ","Sales","NY","Married","No","No","Business","White","Female","Sales","2","1","5","3","3","3","3",41,34,109747,9,2,1
+"417","Some Travel","Sales","CA","Married","No","No","STEM","Asian","Female","Sales","3","1","3","4","2","4","2",41,42,142853,8,1,0
+"418","Frequent Traveller","Human Resources","NY","Married","No","No","HR","White","Other","HR","4","0","1","3","2","1","3",23,34,75948,0,3,0
+"419","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Female","AI/ML","4","1","4","2","2","4","3",26,36,22162,5,3,2
+"420","No Travel ","Technology","CA","Divorced","No","No","Other","Asian","Male","AI/ML","2","1","5","2","5","3","2",43,15,76826,9,2,1
+"421","Some Travel","Sales","NY","Single","No","No","Business","White","Female","Sales","3","0","5","3","3","3","3",23,26,67718,2,3,2
+"422","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","3","0","5","2","4","5","4",42,13,293303,0,1,1
+"423","Some Travel","Technology","NY","Married","No","Yes","STEM","Black","Female","AI/ML","3","1","5","2","2","4","3",26,7,34047,4,2,2
+"424","No Travel ","Sales","CA","Single","No","No","Business","Mixed/Other","Male","Sales","4","0","5","3","2","2","4",24,2,64277,4,1,0
+"425","Some Travel","Technology","CA","Single","No","No","STEM","Mixed/Other","Female","Software Engineer","1","0","3","3","3","4","2",25,23,42656,4,2,0
+"426","Some Travel","Human Resources","IL","Divorced","No","No","HR","Black","Female","HR","4","3","4","3","4","2","2",36,31,509940,4,3,0
+"427","No Travel ","Sales","IL","Single","No","No","Business","White","Other","Sales","2","0","4","5","3","5","3",26,18,65194,4,3,0
+"428","No Travel ","Technology","IL","Married","No","No","STEM","White","Female","AI/ML","3","1","4","3","5","5","4",30,3,47338,9,1,2
+"429","Some Travel","Sales","CA","Divorced","No","No","Business","Asian","Female","Management","4","3","4","4","1","2","4",27,4,255718,5,1,3
+"430","Some Travel","Technology","CA","Married","No","Yes","Other","White","Other","Software Engineer","4","0","5","4","2","2","3",33,15,108095,9,2,2
+"431","Some Travel","Sales","CA","Married","No","No","Business","White","Male","Sales","3","1","3","4","2","3","4",28,42,128192,1,2,1
+"432","No Travel ","Technology","CA","Single","No","No","STEM","Asian","Other","Management","3","0","5","2","4","4","4",35,27,542695,5,1,1
+"433","Some Travel","Technology","CA","Divorced","No","No","STEM","Asian","Female","Management","1","2","3","2","4","4","2",25,43,190198,2,2,3
+"434","Some Travel","Sales","CA","Married","No","No","Business","White","Male","Sales","4","1","4","2","2","5","5",22,41,22778,2,1,1
+"435","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Male","AI/ML","2","2","4","2","3","4","4",21,23,56541,1,3,1
+"436","Some Travel","Technology","NY","Single","No","No","STEM","White","Other","Management","3","0","3","2","5","2","4",27,37,130012,6,3,1
+"437","Some Travel","Technology","CA","Divorced","No","No","STEM","Black","Female","Software Engineer","1","2","3","4","3","4","3",30,26,159438,4,1,1
+"438","Some Travel","Technology","NY","Single","No","Yes","Business","Black","Male","Software Engineer","2","0","3","4","4","3","4",25,24,175342,4,1,1
+"439","Some Travel","Technology","NY","Single","No","No","STEM","Black","Male","Software Engineer","1","0","4","3","2","3","5",40,9,58551,7,1,0
+"440","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Male","Software Engineer","4","1","4","4","2","3","4",38,40,126505,5,2,1
+"443","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","Software Engineer","3","1","4","4","5","4","2",24,11,65486,4,2,1
+"444","Some Travel","Technology","IL","Divorced","Yes","Yes","STEM","White","Male","AI/ML","3","1","4","3","3","2","5",26,2,30207,3,2,0
+"445","Some Travel","Technology","CA","Single","No","No","STEM","Black","Female","Software Engineer","1","0","2","3","4","3","3",43,31,98693,8,3,1
+"446","No Travel ","Technology","CA","Single","Yes","Yes","STEM","White","Male","Software Engineer","3","0","5","3","4","2","4",19,9,29798,0,1,1
+"447","Frequent Traveller","Human Resources","CA","Married","No","No","Business","White","Female","HR","3","2","5","5","5","3","4",47,3,85744,9,1,2
+"448","Frequent Traveller","Technology","CA","Married","No","Yes","STEM","White","Female","Software Engineer","2","1","3","4","4","4","3",26,17,59981,5,2,2
+"449","Frequent Traveller","Sales","CA","Single","Yes","Yes","Business","Mixed/Other","Female","Sales","3","0","5","5","4","2","2",27,43,24583,1,1,0
+"450","Some Travel","Sales","CA","Single","Yes","No","Business","White","Male","Sales","3","0","3","5","2","2","4",26,24,85982,1,3,0
+"452","Frequent Traveller","Sales","CA","Married","No","No","Business","White","Female","Sales","4","3","3","2","2","2","3",43,40,86038,3,2,0
+"453","Some Travel","Sales","CA","Married","No","No","Business","Black","Male","Sales","3","1","5","5","5","4","5",26,39,104176,3,2,1
+"454","Some Travel","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Male","Management","4","2","3","3","2","5","3",26,35,292386,2,2,1
+"455","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","AI/ML","2","1","5","3","2","3","3",23,16,56946,4,2,0
+"456","Frequent Traveller","Technology","NY","Married","No","No","Business","White","Male","Software Engineer","4","3","3","4","5","3","5",25,40,67200,2,1,0
+"460","Some Travel","Sales","CA","Married","Yes","No","Business","Asian","Female","Sales","4","0","4","2","2","2","2",24,43,144335,0,3,0
+"463","Some Travel","Technology","IL","Married","No","No","STEM","Black","Female","Management","3","1","3","4","2","3","4",42,21,316208,8,2,1
+"465","Some Travel","Technology","CA","Single","No","Yes","STEM","White","Female","AI/ML","1","0","3","3","2","3","2",34,5,127432,9,2,2
+"466","Some Travel","Technology","NY","Married","No","No","Business","White","Female","Software Engineer","4","0","4","4","3","5","4",32,31,186169,6,1,1
+"468","Frequent Traveller","Technology","IL","Divorced","Yes","No","STEM","White","Male","AI/ML","3","2","3","2","4","3","3",24,7,104649,4,2,2
+"469","Some Travel","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Male","Software Engineer","2","1","3","3","2","3","5",27,1,90487,4,1,1
+"470","Some Travel","Technology","CA","Married","No","Yes","Other","Mixed/Other","Male","Software Engineer","4","1","5","3","2","3","3",23,6,87483,2,2,0
+"471","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Female","AI/ML","4","1","4","4","3","2","3",30,38,88609,4,2,1
+"472","Some Travel","Sales","NY","Married","No","Yes","Business","White","Female","Sales","1","0","3","3","4","2","4",24,41,73498,2,2,1
+"474","No Travel ","Technology","NY","Divorced","No","Yes","STEM","White","Male","AI/ML","4","2","5","2","4","4","2",28,24,193347,4,3,1
+"475","Some Travel","Technology","CA","Single","No","No","Other","White","Other","Software Engineer","4","0","4","5","4","4","5",26,16,60834,0,3,0
+"477","Frequent Traveller","Technology","CA","Single","No","Yes","STEM","White","Female","Management","2","0","5","5","5","2","4",38,44,293425,4,1,1
+"478","Some Travel","Technology","NY","Single","Yes","No","Business","White","Female","Software Engineer","4","0","4","3","5","5","2",20,26,37094,0,1,1
+"480","Some Travel","Technology","NY","Divorced","No","No","STEM","White","Female","Software Engineer","3","2","3","1","2","3","2",23,20,85006,3,2,1
+"481","Frequent Traveller","Sales","CA","Divorced","No","No","Business","White","Male","Sales","2","1","3","4","3","5","3",30,25,135919,6,2,2
+"482","Some Travel","Technology","IL","Married","No","No","STEM","Mixed/Other","Female","Software Engineer","1","1","4","5","2","4","3",43,18,49882,8,1,1
+"483","No Travel ","Technology","CA","Married","No","No","Business","Mixed/Other","Other","Software Engineer","4","1","5","2","5","4","3",27,36,50046,6,3,2
+"484","Frequent Traveller","Technology","CA","Single","Yes","Yes","STEM","White","Female","Software Engineer","3","0","5","3","4","2","4",18,8,31894,0,2,1
+"485","No Travel ","Technology","CA","Single","No","No","STEM","White","Other","AI/ML","4","0","4","4","3","3","4",25,29,105411,4,1,0
+"486","Some Travel","Sales","NY","Single","Yes","Yes","Business","Black","Male","Sales","3","0","4","1","2","2","4",29,20,149688,2,2,0
+"487","No Travel ","Technology","CA","Single","No","No","STEM","White","Male","Software Engineer","4","1","3","4","3","1","2",39,30,152771,1,1,0
+"488","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","3","0","1","2","3","2","3",30,26,96170,9,2,1
+"489","Some Travel","Technology","NY","Single","No","No","Business","White","Female","AI/ML","2","0","5","5","4","3","2",20,24,38138,2,1,0
+"490","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","Management","3","0","3","5","2","3","3",25,2,217544,6,1,3
+"492","Some Travel","Technology","CA","Divorced","No","No","Business","White","Other","Software Engineer","3","1","4","5","4","4","3",24,1,35199,0,3,2
+"493","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","3","0","3","4","2","2","5",23,40,23632,2,2,2
+"494","Some Travel","Human Resources","CA","Married","No","Yes","HR","Mixed/Other","Female","HR","4","1","4","3","3","2","4",26,5,315071,7,3,1
+"496","Frequent Traveller","Technology","CA","Single","No","No","STEM","White","Male","Software Engineer","4","0","1","3","4","1","2",23,35,51906,1,1,2
+"497","Frequent Traveller","Technology","NY","Single","Yes","Yes","STEM","White","Male","Software Engineer","4","1","1","2","4","1","4",25,39,26545,0,3,2
+"498","Some Travel","Technology","CA","Single","Yes","Yes","STEM","Mixed/Other","Male","Software Engineer","1","0","5","4","3","5","4",25,8,30931,0,2,1
+"500","Some Travel","Technology","NY","Married","No","No","STEM","Black","Other","AI/ML","2","2","5","2","4","4","3",46,36,102964,10,1,0
+"501","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","Software Engineer","2","0","4","4","3","3","3",22,4,73653,3,3,2
+"502","Some Travel","Technology","CA","Divorced","No","Yes","STEM","White","Male","Software Engineer","2","2","4","4","5","5","3",44,31,81297,8,3,0
+"503","Some Travel","Technology","NY","Divorced","No","No","Business","Mixed/Other","Female","Software Engineer","3","1","5","2","5","4","2",25,12,52957,5,1,0
+"504","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","3","0","5","5","3","5","3",25,34,37053,5,3,2
+"506","Some Travel","Sales","CA","Married","No","Yes","Business","White","Female","Sales","1","3","3","3","3","2","5",25,3,58631,4,2,0
+"508","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","Software Engineer","4","0","5","4","3","5","3",22,36,31072,2,1,1
+"509","Frequent Traveller","Technology","NY","Married","No","No","Business","Mixed/Other","Male","AI/ML","1","1","5","4","4","4","3",25,11,67708,7,3,1
+"511","Some Travel","Sales","CA","Single","No","No","Business","Black","Male","Sales","3","0","4","5","3","2","5",25,11,58914,1,2,3
+"513","Some Travel","Technology","CA","Single","No","Yes","STEM","Black","Other","Management","3","0","3","4","3","5","4",37,28,368494,9,3,0
+"514","No Travel ","Technology","CA","Married","No","No","STEM","Mixed/Other","Male","AI/ML","4","0","3","4","4","2","3",25,44,57765,3,1,1
+"515","No Travel ","Technology","CA","Married","No","No","STEM","White","Male","Software Engineer","4","1","3","5","5","4","3",24,42,58717,2,3,0
+"516","Some Travel","Technology","NY","Married","No","No","STEM","Black","Female","Software Engineer","3","1","3","5","3","5","4",24,20,52850,3,1,2
+"517","Frequent Traveller","Technology","CA","Married","No","No","STEM","Black","Female","AI/ML","1","3","1","4","2","2","4",28,20,62016,6,1,0
+"519","Some Travel","Technology","NY","Married","No","No","STEM","Black","Female","Management","3","1","4","4","3","4","3",27,5,238435,4,2,0
+"520","Some Travel","Technology","CA","Married","No","No","STEM","Mixed/Other","Male","Software Engineer","3","1","3","2","5","5","3",44,28,49447,7,2,1
+"521","No Travel ","Technology","NY","Single","No","No","STEM","White","Male","Software Engineer","2","0","3","4","5","5","4",26,10,62828,2,2,0
+"522","Frequent Traveller","Sales","NY","Married","Yes","No","Business","White","Male","Sales","3","1","3","3","5","5","4",22,33,33657,2,1,2
+"523","Frequent Traveller","Technology","NY","Married","No","No","Business","White","Female","AI/ML","3","1","3","3","3","3","4",30,7,175692,3,1,1
+"524","Frequent Traveller","Technology","CA","Single","No","Yes","STEM","White","Female","AI/ML","3","0","3","4","4","3","4",43,4,262392,1,3,0
+"525","Some Travel","Technology","IL","Married","No","No","STEM","Mixed/Other","Female","Software Engineer","3","1","3","5","4","2","3",24,17,26937,2,2,1
+"527","Some Travel","Sales","CA","Married","No","No","Business","Asian","Male","Sales","4","1","3","4","3","2","2",29,38,102061,9,1,2
+"528","Some Travel","Technology","NY","Married","No","No","STEM","White","Male","Software Engineer","2","1","5","3","3","5","4",21,34,26137,0,3,2
+"529","Some Travel","Sales","CA","Married","No","Yes","Business","Mixed/Other","Female","Sales","3","3","3","5","2","3","4",46,8,249505,2,3,2
+"531","No Travel ","Technology","NY","Married","No","Yes","Other","Black","Female","Software Engineer","2","0","3","4","5","2","3",21,22,25208,0,3,0
+"532","Frequent Traveller","Technology","CA","Divorced","No","No","STEM","White","Male","Management","4","1","4","2","4","2","5",40,1,314668,2,2,1
+"533","Frequent Traveller","Sales","NY","Single","No","No","Business","Mixed/Other","Female","Sales","3","0","5","3","2","5","3",43,1,180996,10,2,0
+"534","No Travel ","Technology","CA","Divorced","No","No","STEM","White","Female","Software Engineer","2","2","3","5","4","4","5",25,30,43644,3,1,2
+"535","Some Travel","Sales","CA","Married","No","No","Business","Asian","Male","Sales","3","1","4","5","3","2","3",47,42,249553,4,3,1
+"536","Some Travel","Sales","IL","Married","No","Yes","Business","White","Female","Sales","3","1","5","5","2","5","3",28,18,113501,2,3,1
+"538","Frequent Traveller","Technology","CA","Single","No","No","STEM","White","Male","Management","4","0","4","3","2","5","5",25,21,182961,5,3,1
+"540","Some Travel","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Male","Software Engineer","4","1","4","2","3","2","2",24,19,35270,5,2,0
+"541","Frequent Traveller","Technology","IL","Married","No","Yes","STEM","White","Male","AI/ML","2","1","1","2","1","1","4",34,34,265922,3,1,3
+"543","Some Travel","Sales","CA","Single","No","No","Business","White","Female","Sales","4","0","4","3","3","4","4",23,21,37626,4,3,1
+"544","Some Travel","Sales","CA","Single","No","Yes","Business","Mixed/Other","Male","Sales","1","0","4","3","5","4","3",26,24,82312,7,2,0
+"545","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","AI/ML","3","1","5","2","2","5","3",24,12,47183,6,1,0
+"546","No Travel ","Sales","CA","Married","No","Yes","Business","Mixed/Other","Female","Sales","2","1","4","3","5","5","4",24,39,151986,6,3,2
+"549","Some Travel","Technology","CA","Married","No","No","STEM","Black","Male","Management","4","1","3","2","1","1","4",35,8,405965,2,2,0
+"550","Some Travel","Sales","CA","Married","No","No","Business","White","Male","Sales","4","1","4","5","4","2","5",25,29,95643,3,2,1
+"552","No Travel ","Sales","IL","Single","No","No","Business","White","Male","Sales","4","0","5","3","5","5","3",28,37,95591,2,3,3
+"553","Some Travel","Technology","CA","Divorced","No","Yes","STEM","Black","Male","Software Engineer","2","1","2","3","3","1","2",31,20,149482,7,3,1
+"554","Some Travel","Technology","NY","Married","No","No","STEM","Mixed/Other","Male","AI/ML","2","0","1","2","2","3","2",39,33,99602,8,3,1
+"555","No Travel ","Technology","CA","Single","No","No","STEM","White","Male","AI/ML","3","0","3","2","5","2","3",25,43,33086,4,3,0
+"557","Some Travel","Technology","CA","Single","Yes","Yes","STEM","Black","Other","AI/ML","3","0","3","3","2","4","3",21,41,29793,0,3,2
+"558","Some Travel","Sales","CA","Divorced","No","No","Business","Mixed/Other","Other","Sales","2","1","3","2","2","3","3",24,41,111750,6,1,0
+"559","Some Travel","Sales","CA","Married","No","No","Business","Mixed/Other","Female","Sales","3","0","5","2","2","2","5",32,42,108213,6,3,0
+"561","Some Travel","Technology","NY","Single","No","No","STEM","White","Male","Management","3","0","5","2","2","5","3",25,6,195911,3,1,1
+"562","Some Travel","Technology","CA","Single","No","No","Business","Mixed/Other","Other","Management","2","0","4","4","3","4","3",28,1,339731,7,1,1
+"563","Frequent Traveller","Sales","CA","Single","No","No","Other","Black","Male","Sales","4","0","2","4","3","4","3",28,4,110839,8,2,0
+"564","Frequent Traveller","Sales","NY","Single","No","No","Business","White","Male","Sales","1","0","5","3","2","4","5",25,25,57030,7,3,3
+"565","Some Travel","Sales","NY","Divorced","No","No","Business","White","Female","Sales","3","1","4","2","1","3","3",42,2,260021,1,3,1
+"568","Frequent Traveller","Technology","CA","Married","No","No","STEM","Black","Male","AI/ML","1","0","2","3","1","2","2",33,32,188180,3,3,1
+"569","Some Travel","Technology","CA","Married","No","Yes","STEM","Black","Other","AI/ML","1","3","3","5","2","4","4",24,2,28797,2,2,0
+"570","Some Travel","Technology","NY","Single","No","No","STEM","White","Other","Management","2","0","3","3","3","4","3",25,4,179602,6,2,0
+"571","Frequent Traveller","Technology","CA","Single","Yes","Yes","Other","White","Female","Software Engineer","1","0","5","3","2","3","4",28,31,176282,1,3,2
+"572","Some Travel","Sales","CA","Single","Yes","Yes","Business","Mixed/Other","Male","Sales","3","0","5","4","2","5","3",41,25,231843,1,3,0
+"573","Some Travel","Sales","NY","Single","No","No","Business","Black","Female","Sales","3","0","3","5","3","3","4",22,36,60699,3,2,3
+"574","Some Travel","Technology","IL","Divorced","No","No","STEM","White","Female","AI/ML","3","1","4","2","2","4","4",20,41,40701,1,1,1
+"575","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","AI/ML","2","1","3","4","5","5","3",45,14,223124,3,1,0
+"576","Some Travel","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Female","Software Engineer","4","1","4","3","2","3","3",32,7,85568,9,2,0
+"577","Some Travel","Technology","NY","Divorced","No","Yes","Business","Black","Female","Management","1","1","4","4","3","3","3",35,43,243863,6,3,0
+"578","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","4","0","1","3","4","3","5",32,42,102022,5,2,1
+"580","No Travel ","Human Resources","CA","Single","No","Yes","HR","White","Other","HR","3","0","3","2","2","5","5",26,23,240035,5,3,1
+"581","Some Travel","Technology","NY","Single","No","No","STEM","White","Male","AI/ML","2","0","4","2","4","5","3",47,40,108798,4,2,3
+"582","Some Travel","Human Resources","NY","Divorced","No","No","Business","Black","Female","HR","2","1","4","4","5","2","3",25,22,49131,6,2,0
+"583","No Travel ","Technology","NY","Married","No","No","STEM","Mixed/Other","Male","AI/ML","4","1","3","2","2","4","2",25,32,52614,5,3,0
+"584","Frequent Traveller","Sales","NY","Married","No","No","Business","White","Male","Sales","3","0","5","5","4","3","4",47,42,232155,7,1,0
+"585","No Travel ","Technology","NY","Divorced","No","Yes","STEM","Black","Female","AI/ML","2","2","5","4","5","4","2",25,12,28926,3,1,0
+"586","Some Travel","Technology","CA","Married","No","No","STEM","Mixed/Other","Female","AI/ML","3","1","3","4","2","3","4",26,18,46809,0,2,2
+"587","Some Travel","Technology","CA","Divorced","No","Yes","STEM","White","Other","Software Engineer","4","1","3","4","2","2","3",23,32,23041,5,1,0
+"588","Some Travel","Technology","NY","Married","No","Yes","STEM","White","Female","Software Engineer","4","0","2","4","3","2","5",21,1,34133,2,1,1
+"589","Some Travel","Technology","CA","Single","No","No","STEM","White","Male","Software Engineer","4","0","4","3","3","5","3",47,12,105126,7,2,2
+"591","Some Travel","Human Resources","IL","Married","Yes","No","HR","Mixed/Other","Male","HR","5","0","4","5","2","3","5",24,1,44634,3,3,1
+"593","Some Travel","Sales","NY","Married","No","No","Business","Black","Female","Sales","2","2","3","1","4","3","2",26,4,82147,4,1,1
+"594","Some Travel","Technology","CA","Single","No","No","STEM","Mixed/Other","Other","Management","4","0","2","3","1","4","2",28,15,337046,4,3,2
+"595","Some Travel","Sales","CA","Divorced","No","Yes","Business","White","Male","Sales","4","1","5","5","4","5","3",37,22,92483,5,1,2
+"596","Some Travel","Technology","NY","Single","No","No","STEM","White","Female","AI/ML","2","0","3","2","5","4","4",21,39,63201,2,1,1
+"597","Frequent Traveller","Sales","NY","Divorced","No","Yes","Business","White","Male","Management","3","1","5","5","4","5","4",43,21,327587,1,3,1
+"598","Frequent Traveller","Sales","CA","Married","Yes","Yes","Business","White","Other","Sales","4","0","4","2","4","4","3",25,43,81889,0,3,1
+"599","Some Travel","Sales","CA","Single","Yes","No","Business","White","Female","Sales","3","0","4","2","4","4","3",23,16,23794,0,3,3
+"601","Some Travel","Technology","CA","Single","No","No","STEM","Mixed/Other","Female","Software Engineer","3","0","4","4","4","4","4",22,26,24208,3,3,2
+"602","Some Travel","Technology","CA","Single","No","Yes","STEM","White","Male","Management","3","0","3","2","5","4","3",29,3,393103,4,1,1
+"603","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Other","AI/ML","3","1","3","3","2","2","4",28,5,140377,7,3,2
+"605","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Male","Software Engineer","2","1","5","3","2","3","2",23,45,37322,3,3,0
+"606","Some Travel","Human Resources","NY","Single","No","No","Business","Mixed/Other","Female","HR","3","0","4","3","3","4","2",47,21,98608,10,3,1
+"608","Some Travel","Sales","CA","Single","No","No","Business","White","Male","Sales","3","0","5","5","5","4","5",23,32,84558,3,2,1
+"610","Some Travel","Sales","NY","Single","No","No","Business","Black","Female","Sales","4","0","5","5","2","4","4",23,12,45024,1,2,3
+"611","Some Travel","Sales","CA","Single","No","No","Other","White","Female","Sales","3","0","4","2","2","5","4",30,35,160352,5,2,0
+"613","Frequent Traveller","Technology","CA","Married","Yes","No","STEM","White","Female","AI/ML","4","1","5","4","2","5","3",22,28,63571,0,3,0
+"614","Frequent Traveller","Technology","NY","Married","No","No","STEM","White","Male","AI/ML","4","0","4","5","2","4","3",50,38,366078,0,1,3
+"615","Some Travel","Sales","CA","Single","No","No","Business","Mixed/Other","Female","Sales","4","0","5","4","5","4","3",36,23,195502,3,1,1
+"616","No Travel ","Technology","NY","Divorced","No","No","STEM","Mixed/Other","Male","AI/ML","3","1","4","5","2","2","4",24,18,104807,0,1,1
+"619","No Travel ","Sales","NY","Single","No","Yes","Business","White","Male","Management","4","0","4","3","3","3","4",31,6,321244,2,3,0
+"620","Some Travel","Technology","IL","Divorced","No","No","STEM","Mixed/Other","Male","Software Engineer","4","1","3","5","5","4","4",27,19,25276,7,3,2
+"621","Some Travel","Technology","CA","Single","No","No","STEM","Asian","Female","AI/ML","3","0","4","3","2","5","5",33,36,88726,8,1,0
+"622","Some Travel","Technology","NY","Married","No","Yes","STEM","White","Male","Software Engineer","3","1","4","5","5","5","4",22,40,54114,1,2,1
+"624","Some Travel","Technology","NY","Divorced","No","No","STEM","Black","Male","AI/ML","3","1","4","2","2","5","4",25,16,37742,3,1,1
+"625","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","Software Engineer","4","0","3","3","5","3","3",25,28,70737,3,1,1
+"626","Some Travel","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Female","AI/ML","4","2","4","4","2","5","2",24,18,28539,2,2,2
+"629","Some Travel","Technology","NY","Single","Yes","Yes","STEM","Black","Female","AI/ML","4","0","3","4","5","5","3",29,9,48321,3,2,0
+"630","Some Travel","Sales","NY","Married","No","Yes","STEM","Mixed/Other","Female","Sales","4","1","5","3","3","5","4",23,18,83677,5,2,0
+"631","Some Travel","Sales","NY","Married","No","No","Business","White","Female","Management","4","0","4","5","3","4","3",40,5,267834,3,3,1
+"632","Some Travel","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Female","AI/ML","2","1","5","3","4","4","5",39,10,65796,9,2,1
+"634","Some Travel","Technology","CA","Single","No","No","STEM","White","Male","Software Engineer","4","0","3","4","1","3","4",27,43,105702,3,2,3
+"635","No Travel ","Technology","CA","Married","Yes","Yes","STEM","White","Other","Management","4","1","5","5","3","3","3",41,26,283081,3,2,0
+"636","Frequent Traveller","Technology","IL","Single","No","No","STEM","White","Other","AI/ML","1","0","5","5","5","2","4",36,14,43358,9,1,0
+"637","Some Travel","Technology","CA","Single","Yes","Yes","STEM","White","Male","Software Engineer","3","0","4","5","5","4","2",19,7,30896,0,3,0
+"639","Some Travel","Technology","NY","Divorced","No","No","STEM","Asian","Female","AI/ML","2","1","3","3","4","3","5",24,5,46151,6,3,0
+"640","Some Travel","Technology","CA","Single","No","No","STEM","White","Male","Software Engineer","4","0","4","4","4","2","3",32,34,439641,1,2,1
+"642","Some Travel","Technology","IL","Married","No","Yes","STEM","White","Female","AI/ML","2","1","2","4","2","4","2",24,26,93490,5,2,0
+"643","Some Travel","Sales","NY","Married","No","No","Business","White","Female","Management","1","1","3","4","2","3","2",26,29,172070,4,3,1
+"644","Some Travel","Technology","CA","Single","No","No","STEM","Mixed/Other","Female","Software Engineer","3","0","2","2","4","4","5",29,29,110744,8,3,2
+"645","Frequent Traveller","Technology","NY","Divorced","Yes","Yes","STEM","White","Female","AI/ML","3","1","5","5","4","5","2",22,30,40614,0,1,2
+"647","No Travel ","Technology","NY","Married","No","Yes","STEM","Mixed/Other","Male","AI/ML","3","1","4","4","5","2","4",30,7,138989,4,2,1
+"649","Some Travel","Human Resources","CA","Single","No","No","HR","White","Female","HR","3","1","2","2","1","3","5",19,1,41958,1,3,0
+"650","Some Travel","Technology","NY","Divorced","No","No","STEM","White","Female","Management","4","1","5","2","4","2","3",25,26,174400,2,3,1
+"651","Some Travel","Sales","CA","Single","Yes","No","Business","Black","Female","Sales","3","0","5","3","3","4","3",24,13,24095,2,2,3
+"655","Some Travel","Sales","IL","Single","No","No","Business","White","Male","Sales","4","0","5","4","5","3","3",26,14,127450,0,2,0
+"656","Some Travel","Sales","CA","Divorced","No","No","Business","Mixed/Other","Male","Management","3","1","3","3","5","4","3",44,44,313891,4,3,1
+"657","Some Travel","Technology","NY","Married","No","No","Other","Mixed/Other","Male","Software Engineer","4","1","3","5","3","4","4",24,17,30720,5,3,0
+"659","No Travel ","Technology","NY","Divorced","No","No","STEM","Asian","Other","AI/ML","2","1","2","4","4","2","3",25,19,83894,2,2,0
+"660","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Female","Management","4","1","3","3","2","5","3",25,21,261970,4,2,1
+"661","Some Travel","Technology","CA","Married","Yes","Yes","STEM","White","Male","AI/ML","1","0","5","4","3","4","4",25,41,28137,3,2,1
+"662","Some Travel","Human Resources","NY","Single","No","No","Business","Black","Male","HR","4","0","4","2","5","5","4",25,18,190466,2,2,3
+"664","Some Travel","Sales","NY","Married","No","No","Business","White","Female","Sales","3","1","4","4","4","4","5",22,16,48432,0,2,2
+"665","Some Travel","Technology","CA","Married","Yes","No","Business","White","Male","AI/ML","5","1","5","3","4","5","5",26,41,161600,2,2,0
+"668","Frequent Traveller","Sales","NY","Single","Yes","Yes","STEM","Black","Female","Sales","1","0","3","2","4","5","4",28,32,53439,0,2,3
+"669","Frequent Traveller","Technology","NY","Single","No","Yes","STEM","White","Female","Software Engineer","2","0","5","4","4","2","4",46,16,100717,9,2,1
+"670","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","Management","3","0","3","1","4","2","5",29,32,390142,2,3,1
+"673","Some Travel","Technology","CA","Single","No","No","STEM","Black","Male","AI/ML","3","0","3","5","4","4","3",39,3,81115,4,1,1
+"674","No Travel ","Technology","NY","Single","No","No","STEM","White","Male","Software Engineer","3","0","4","5","3","5","4",24,21,26451,1,3,0
+"677","Some Travel","Technology","CA","Married","Yes","Yes","STEM","White","Male","AI/ML","4","0","3","2","4","4","4",25,18,130434,0,3,2
+"679","Some Travel","Technology","CA","Single","No","Yes","STEM","Black","Female","AI/ML","3","0","3","4","2","4","3",41,9,197592,10,2,0
+"680","Some Travel","Technology","CA","Divorced","No","Yes","STEM","Mixed/Other","Male","Management","3","1","4","4","2","2","3",35,29,519361,3,3,0
+"681","Some Travel","Technology","CA","Divorced","No","No","STEM","Black","Female","Management","2","1","5","5","2","3","4",34,41,357371,9,1,0
+"682","Some Travel","Sales","CA","Divorced","No","No","Business","White","Female","Sales","3","3","3","4","4","3","3",30,12,145929,1,3,0
+"683","Some Travel","Human Resources","NY","Single","No","No","Other","Asian","Male","HR","3","0","3","3","4","2","2",26,11,70395,6,3,1
+"685","Some Travel","Technology","CA","Married","No","Yes","STEM","Black","Female","Software Engineer","3","1","4","4","5","3","2",44,28,53325,8,2,0
+"686","Some Travel","Sales","NY","Divorced","No","Yes","Business","Mixed/Other","Female","Sales","1","2","4","4","2","5","2",24,25,105383,6,2,3
+"687","Some Travel","Technology","CA","Single","Yes","No","STEM","White","Female","AI/ML","3","0","2","4","2","2","2",24,30,61883,1,2,2
+"688","Some Travel","Sales","CA","Divorced","Yes","Yes","Business","Asian","Female","Sales","3","1","3","5","4","2","4",24,3,130774,3,1,2
+"689","Some Travel","Sales","NY","Married","No","No","Business","Mixed/Other","Female","Sales","2","1","3","4","4","4","4",43,38,121510,8,2,0
+"690","Some Travel","Technology","CA","Married","Yes","Yes","STEM","White","Female","Software Engineer","4","0","4","3","5","3","4",20,39,37436,0,1,0
+"691","Some Travel","Sales","NY","Single","No","Yes","Business","Asian","Male","Management","3","0","3","2","4","3","4",38,35,340229,9,3,2
+"692","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Male","AI/ML","4","1","4","4","5","5","5",46,24,43487,8,3,0
+"694","Frequent Traveller","Sales","CA","Married","No","No","Business","Mixed/Other","Female","Sales","1","0","3","2","3","5","2",24,9,125759,3,2,1
+"696","Some Travel","Human Resources","IL","Married","Yes","No","STEM","Mixed/Other","Male","HR","4","0","2","4","2","1","2",29,14,46703,0,2,0
+"697","Some Travel","Human Resources","NY","Single","No","Yes","Business","Black","Other","HR","2","0","5","2","3","5","4",41,11,445906,5,1,1
+"698","No Travel ","Sales","CA","Married","No","No","Business","White","Female","Sales","3","1","3","5","4","3","4",21,25,69078,3,2,0
+"699","Some Travel","Sales","NY","Divorced","No","No","Business","Asian","Male","Sales","4","0","4","3","2","2","4",25,12,67814,7,2,0
+"700","Some Travel","Technology","NY","Single","No","No","STEM","Black","Male","AI/ML","3","0","4","3","4","4","3",25,23,24626,7,2,1
+"701","Frequent Traveller","Technology","CA","Married","No","Yes","STEM","White","Female","Software Engineer","3","1","5","3","5","4","4",27,20,167879,6,2,1
+"702","Some Travel","Technology","IL","Single","No","Yes","STEM","Black","Male","Software Engineer","2","0","3","4","3","3","3",25,14,40079,4,2,1
+"703","Some Travel","Technology","CA","Single","No","No","STEM","White","Male","Software Engineer","3","0","5","3","4","2","3",30,33,78743,7,2,0
+"704","Some Travel","Human Resources","IL","Divorced","Yes","Yes","HR","White","Male","HR","3","3","4","1","3","1","4",46,45,48740,9,1,1
+"706","No Travel ","Technology","CA","Single","No","No","STEM","White","Female","Software Engineer","3","0","3","4","3","5","4",27,25,27369,6,3,1
+"708","Some Travel","Technology","IL","Married","No","No","STEM","White","Male","Management","4","2","5","3","4","5","4",28,43,249071,5,2,1
+"709","Some Travel","Technology","IL","Single","Yes","No","STEM","White","Male","AI/ML","4","0","5","2","3","5","5",27,14,37545,1,3,2
+"711","No Travel ","Technology","CA","Divorced","No","Yes","STEM","Mixed/Other","Female","Management","4","2","3","3","3","4","3",26,18,153420,5,1,1
+"713","No Travel ","Sales","IL","Married","No","No","Business","Asian","Male","Sales","4","1","4","3","2","5","3",27,17,71832,6,1,0
+"714","Some Travel","Technology","NY","Married","No","Yes","Business","Mixed/Other","Female","AI/ML","2","1","2","2","2","4","5",35,32,119917,7,2,2
+"715","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Female","AI/ML","1","1","3","5","4","3","2",20,3,41342,1,2,1
+"716","Frequent Traveller","Sales","CA","Single","No","No","Business","Black","Female","Sales","1","0","3","2","3","3","2",24,29,26608,3,3,1
+"718","Some Travel","Sales","CA","Married","No","Yes","Business","White","Female","Management","3","1","5","2","2","5","4",50,23,266449,2,3,1
+"719","Some Travel","Human Resources","CA","Married","Yes","No","Business","Mixed/Other","Male","HR","2","1","3","5","3","5","2",28,18,179561,0,3,1
+"721","Some Travel","Technology","CA","Married","No","Yes","STEM","Asian","Male","Software Engineer","3","1","4","2","2","3","4",26,22,52390,5,3,1
+"722","Some Travel","Sales","NY","Single","No","Yes","Business","Mixed/Other","Male","Sales","2","0","4","3","5","4","2",23,26,58345,4,1,2
+"723","Frequent Traveller","Sales","NY","Married","No","Yes","Business","Asian","Female","Sales","4","1","5","4","4","4","4",40,30,250555,4,1,1
+"724","No Travel ","Technology","IL","Single","No","No","STEM","White","Female","AI/ML","3","0","3","3","3","4","5",27,12,41524,6,3,1
+"725","Some Travel","Sales","CA","Single","No","No","Business","White","Female","Sales","1","0","5","5","4","3","2",24,34,107634,2,3,2
+"726","Some Travel","Technology","IL","Married","No","No","STEM","White","Male","Software Engineer","3","1","3","2","4","2","3",28,17,101210,2,3,1
+"727","No Travel ","Technology","CA","Single","No","No","STEM","White","Male","AI/ML","3","0","3","5","3","4","5",28,30,52930,4,1,1
+"728","Some Travel","Technology","CA","Single","No","No","STEM","White","Other","AI/ML","3","0","4","3","4","2","3",27,10,45438,5,1,1
+"729","Some Travel","Technology","NY","Divorced","No","No","STEM","White","Male","AI/ML","3","1","5","4","5","3","4",21,24,75816,1,2,1
+"731","Some Travel","Technology","NY","Divorced","No","Yes","STEM","White","Male","Software Engineer","4","3","4","2","2","2","4",23,4,42687,2,2,1
+"733","No Travel ","Technology","CA","Divorced","No","No","Business","Asian","Male","Software Engineer","3","2","5","2","3","5","4",28,4,57837,3,2,1
+"734","Some Travel","Human Resources","CA","Married","No","No","Business","Asian","Male","HR","4","1","4","5","3","4","3",43,29,309964,10,3,0
+"735","Some Travel","Technology","CA","Divorced","No","No","STEM","Black","Male","Management","5","3","4","2","4","3","3",48,19,241907,3,2,1
+"736","Some Travel","Technology","NY","Divorced","No","No","Business","Mixed/Other","Male","Software Engineer","2","2","5","2","5","2","3",24,2,32313,1,1,0
+"738","Some Travel","Technology","NY","Married","No","No","STEM","Mixed/Other","Female","AI/ML","4","3","3","5","4","5","2",37,40,49550,8,1,0
+"739","Some Travel","Technology","CA","Divorced","No","No","Business","White","Male","Software Engineer","3","1","4","5","5","5","4",20,38,21344,2,1,0
+"740","No Travel ","Technology","CA","Single","No","No","STEM","White","Male","Management","4","0","5","4","5","3","2",43,21,280756,8,3,2
+"741","Some Travel","Technology","CA","Married","No","No","Business","Black","Female","AI/ML","3","1","3","4","5","5","3",24,4,41555,4,3,0
+"742","Some Travel","Sales","CA","Married","Yes","No","Business","White","Male","Sales","3","3","5","3","4","4","5",31,15,187930,2,2,1
+"743","Some Travel","Sales","NY","Divorced","No","No","Business","Mixed/Other","Male","Sales","2","1","5","5","3","5","3",48,33,191771,10,2,1
+"745","Some Travel","Technology","IL","Single","No","No","STEM","Black","Female","Software Engineer","3","0","4","3","4","4","4",22,21,27097,3,3,0
+"746","Some Travel","Technology","CA","Single","No","Yes","Other","White","Female","Sales","4","0","3","5","4","5","4",28,15,319619,1,1,3
+"747","Some Travel","Technology","NY","Single","No","No","Other","Mixed/Other","Male","Software Engineer","4","0","4","3","5","3","4",33,4,97126,10,1,0
+"750","No Travel ","Sales","CA","Single","No","No","Business","Mixed/Other","Other","Sales","2","0","5","2","2","2","3",36,31,56937,8,3,0
+"751","Some Travel","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Female","AI/ML","2","3","4","1","2","4","4",23,33,77798,3,3,0
+"752","Some Travel","Technology","CA","Married","Yes","Yes","STEM","White","Male","Management","3","1","4","3","3","3","4",31,44,531629,1,2,0
+"756","Some Travel","Sales","CA","Married","No","No","Business","Black","Male","Sales","3","1","4","3","5","5","4",27,7,73918,4,3,0
+"757","Some Travel","Sales","CA","Single","No","No","STEM","White","Male","Sales","1","0","5","3","3","3","3",25,44,37461,4,3,3
+"758","Frequent Traveller","Technology","IL","Married","No","No","STEM","Mixed/Other","Other","Software Engineer","3","2","3","4","4","2","3",40,7,95808,8,2,0
+"759","Some Travel","Technology","IL","Married","No","No","STEM","White","Other","AI/ML","4","0","1","2","2","4","4",23,25,57285,2,2,1
+"760","Some Travel","Technology","IL","Divorced","No","Yes","Business","White","Female","Software Engineer","2","2","4","5","5","5","4",28,14,105984,9,1,0
+"761","Some Travel","Sales","CA","Divorced","No","Yes","Other","Black","Female","Sales","2","1","5","5","5","2","3",45,43,106610,7,3,1
+"763","No Travel ","Sales","CA","Divorced","No","No","Other","Black","Other","Sales","3","1","4","5","4","2","5",27,2,92022,7,1,1
+"764","Frequent Traveller","Sales","IL","Married","No","No","Business","Black","Male","Sales","3","2","3","2","2","3","3",25,42,72758,3,1,2
+"765","Some Travel","Technology","CA","Single","No","No","Other","White","Female","Management","2","0","3","2","2","4","4",45,13,349793,8,1,0
+"766","Some Travel","Technology","CA","Divorced","No","Yes","STEM","White","Female","Software Engineer","1","2","3","5","2","5","5",24,20,32930,3,2,2
+"770","Some Travel","Technology","NY","Single","Yes","Yes","STEM","White","Male","AI/ML","1","1","3","4","5","5","4",18,32,50660,0,2,2
+"771","Some Travel","Technology","CA","Married","Yes","No","STEM","White","Male","AI/ML","3","2","3","3","5","5","3",22,26,62509,0,3,0
+"772","Some Travel","Technology","NY","Married","No","No","STEM","Mixed/Other","Female","Software Engineer","3","0","4","1","1","3","5",25,32,35586,5,3,3
+"773","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","AI/ML","1","1","3","5","4","2","4",33,31,60754,8,1,1
+"774","Some Travel","Technology","IL","Single","No","No","STEM","White","Male","Software Engineer","1","0","5","5","3","2","3",31,8,70682,8,1,2
+"775","Some Travel","Technology","CA","Married","No","No","STEM","Mixed/Other","Male","AI/ML","3","1","5","3","5","3","3",32,24,41857,5,1,1
+"777","Some Travel","Technology","NY","Married","No","No","Business","Mixed/Other","Male","Software Engineer","3","0","4","5","2","2","4",44,5,48994,7,2,1
+"778","Some Travel","Sales","NY","Married","No","No","Business","White","Male","Sales","3","2","3","5","3","2","2",41,17,116966,10,2,2
+"779","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","AI/ML","4","3","1","1","4","3","4",23,37,26406,1,2,2
+"780","Some Travel","Human Resources","IL","Married","No","No","HR","Black","Male","HR","3","1","5","5","2","3","5",42,4,463051,10,2,0
+"781","Some Travel","Technology","CA","Single","No","No","STEM","White","Other","AI/ML","3","0","5","2","4","3","3",48,37,145337,10,3,1
+"782","Some Travel","Sales","CA","Single","Yes","No","Business","Mixed/Other","Female","Sales","2","0","4","4","3","3","3",29,4,129356,1,3,2
+"783","Some Travel","Sales","CA","Single","No","No","Business","White","Female","Management","3","1","5","2","5","3","2",27,16,225831,1,2,0
+"784","No Travel ","Sales","CA","Married","No","No","Business","Mixed/Other","Female","Sales","4","0","2","1","1","1","4",24,10,65432,2,3,2
+"787","Some Travel","Technology","CA","Single","Yes","No","STEM","Asian","Female","AI/ML","3","0","3","2","5","4","3",28,33,54536,3,1,1
+"788","Some Travel","Technology","CA","Single","No","No","STEM","White","Male","AI/ML","1","0","4","1","4","3","4",28,6,87175,10,3,3
+"789","Some Travel","Sales","NY","Married","No","No","Business","White","Male","Sales","4","1","3","2","4","2","3",34,26,215246,0,3,1
+"791","Some Travel","Sales","NY","Married","No","No","Business","White","Female","Sales","3","1","5","5","5","4","3",24,7,106586,3,3,0
+"792","Frequent Traveller","Technology","CA","Single","No","Yes","STEM","Mixed/Other","Male","Software Engineer","1","0","5","2","3","4","3",25,28,23993,4,2,3
+"793","Some Travel","Sales","CA","Married","No","No","Business","Black","Male","Management","4","1","3","5","4","2","4",27,44,152147,6,3,2
+"794","Some Travel","Technology","NY","Married","No","No","Business","White","Other","Software Engineer","3","1","3","5","2","3","2",22,6,21649,4,3,2
+"795","Some Travel","Technology","IL","Married","No","No","STEM","Mixed/Other","Male","Software Engineer","3","1","3","4","3","3","2",26,17,55778,7,1,1
+"797","Some Travel","Sales","CA","Married","Yes","No","Business","Asian","Male","Sales","3","0","5","4","3","5","3",25,37,79329,1,2,0
+"798","Some Travel","Technology","NY","Married","No","No","STEM","Asian","Female","AI/ML","4","1","4","3","3","2","5",27,13,77039,6,3,1
+"799","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","AI/ML","1","3","3","5","3","2","4",32,30,89960,1,1,3
+"801","Some Travel","Technology","CA","Married","Yes","Yes","STEM","White","Female","Software Engineer","3","1","5","3","2","3","2",26,25,22089,0,2,2
+"802","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","Management","5","1","4","4","1","2","3",43,11,482510,9,1,0
+"803","Some Travel","Technology","CA","Divorced","No","Yes","STEM","Black","Male","AI/ML","3","1","3","2","3","4","4",36,7,46773,8,2,0
+"805","Frequent Traveller","Technology","NY","Married","No","No","STEM","Black","Other","Management","1","0","4","5","4","3","4",25,34,170803,2,3,0
+"806","No Travel ","Sales","NY","Single","No","No","Business","White","Male","Sales","2","0","4","4","3","3","5",23,10,94417,3,3,1
+"807","Some Travel","Technology","IL","Married","No","No","STEM","White","Male","Software Engineer","3","3","4","3","4","2","4",34,40,97542,10,2,1
+"808","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","AI/ML","1","2","3","3","4","5","4",23,1,62324,3,3,1
+"809","No Travel ","Technology","NY","Divorced","No","No","STEM","Mixed/Other","Female","AI/ML","3","2","5","2","5","5","4",37,16,82099,7,2,0
+"810","Some Travel","Technology","NY","Married","No","Yes","STEM","White","Female","AI/ML","4","1","5","5","2","5","2",22,2,39732,2,3,0
+"811","Some Travel","Technology","CA","Married","No","No","STEM","Mixed/Other","Female","Software Engineer","3","1","3","3","3","4","4",28,24,71553,6,2,2
+"812","Some Travel","Technology","NY","Divorced","No","Yes","STEM","Mixed/Other","Female","Software Engineer","3","1","4","3","2","4","2",35,7,253952,9,2,1
+"813","Some Travel","Sales","CA","Divorced","No","No","Business","Mixed/Other","Female","Sales","3","2","5","2","5","3","4",36,37,192475,2,2,2
+"814","Some Travel","Technology","IL","Single","No","No","STEM","White","Female","Software Engineer","3","0","3","3","2","3","3",19,18,28346,1,2,1
+"815","Frequent Traveller","Sales","NY","Single","No","No","Business","Asian","Female","Sales","3","0","3","4","1","1","4",31,21,253719,4,2,1
+"816","Some Travel","Technology","CA","Married","No","Yes","Business","White","Male","AI/ML","3","2","4","5","3","2","3",25,10,145905,3,1,2
+"817","Some Travel","Sales","CA","Single","No","No","Business","White","Female","Management","4","0","4","3","1","1","3",37,17,476151,4,3,2
+"818","Some Travel","Technology","CA","Married","No","Yes","STEM","Black","Male","AI/ML","3","0","5","2","3","4","4",24,35,128126,0,1,2
+"821","Some Travel","Technology","NY","Divorced","No","No","STEM","White","Male","AI/ML","2","1","5","2","2","3","2",23,26,31426,2,3,0
+"822","Some Travel","Technology","CA","Married","No","Yes","STEM","Black","Male","Software Engineer","3","1","2","3","1","1","3",22,10,66552,2,2,1
+"823","Some Travel","Technology","CA","Single","No","No","STEM","White","Male","AI/ML","2","0","3","1","2","1","5",24,19,32173,4,1,0
+"826","Some Travel","Technology","CA","Divorced","No","No","STEM","Black","Female","AI/ML","4","1","1","2","2","3","2",42,43,110069,8,3,2
+"827","Frequent Traveller","Technology","CA","Single","No","No","Business","Black","Female","AI/ML","1","0","3","2","2","5","4",41,7,107008,10,1,1
+"828","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Female","AI/ML","3","1","3","5","2","2","4",29,45,207952,9,1,3
+"830","Some Travel","Sales","NY","Single","Yes","Yes","Business","White","Male","Sales","4","0","5","5","3","4","5",33,43,165988,0,3,0
+"831","Some Travel","Technology","CA","Divorced","No","Yes","STEM","White","Male","Management","2","1","4","5","2","5","3",38,45,439935,1,1,1
+"832","Some Travel","Technology","IL","Single","No","No","STEM","White","Male","Software Engineer","4","0","5","5","3","2","4",26,4,167509,6,1,3
+"833","Frequent Traveller","Technology","CA","Married","No","No","STEM","White","Female","AI/ML","2","1","4","3","3","3","4",32,15,44388,9,1,2
+"834","Frequent Traveller","Technology","CA","Divorced","No","No","STEM","White","Female","Management","3","1","2","1","2","2","4",36,2,462687,2,3,0
+"835","No Travel ","Technology","NY","Divorced","No","No","STEM","White","Male","Management","1","2","4","5","2","2","4",50,11,337946,2,1,2
+"836","Some Travel","Sales","IL","Married","No","No","Business","Mixed/Other","Male","Management","1","1","4","4","2","5","5",43,3,313198,9,1,1
+"837","Some Travel","Technology","CA","Married","No","No","Other","White","Male","Software Engineer","4","2","3","3","5","3","2",22,32,34823,3,3,3
+"839","Some Travel","Technology","CA","Divorced","No","No","STEM","Black","Male","AI/ML","4","1","1","1","3","4","2",36,7,73643,7,1,3
+"840","Some Travel","Sales","IL","Married","No","No","Business","White","Female","Sales","1","0","4","2","3","5","3",22,29,20802,2,3,1
+"841","Some Travel","Sales","CA","Married","No","No","Business","White","Male","Sales","4","2","5","5","4","3","2",29,14,96319,4,2,0
+"842","Some Travel","Technology","NY","Married","No","No","STEM","Black","Female","Software Engineer","4","1","4","4","5","4","3",21,44,46366,3,2,2
+"843","No Travel ","Technology","CA","Married","No","No","STEM","Mixed/Other","Other","AI/ML","5","3","4","3","4","4","3",28,26,112175,3,1,2
+"844","Some Travel","Technology","NY","Married","No","No","STEM","Mixed/Other","Female","AI/ML","3","3","3","3","5","3","3",24,17,101408,2,3,0
+"845","Some Travel","Technology","NY","Married","No","No","Other","Mixed/Other","Male","AI/ML","3","1","2","1","1","1","4",27,42,49343,3,2,1
+"846","Some Travel","Sales","NY","Divorced","No","Yes","Business","Mixed/Other","Male","Sales","3","1","4","2","3","3","3",25,38,86485,6,3,1
+"847","Some Travel","Technology","CA","Single","No","No","STEM","Black","Male","Software Engineer","3","0","4","5","5","3","4",22,8,26158,3,3,0
+"848","Frequent Traveller","Sales","NY","Married","No","No","Business","White","Female","Sales","1","1","2","3","1","4","4",46,14,205159,9,3,0
+"849","Some Travel","Sales","CA","Divorced","No","No","Business","White","Female","Sales","4","1","1","2","4","2","5",24,16,75250,0,3,1
+"850","Some Travel","Sales","CA","Divorced","No","Yes","STEM","White","Female","Sales","3","2","3","5","3","3","3",28,17,70787,5,2,0
+"851","Some Travel","Sales","CA","Single","No","Yes","Business","Asian","Female","Sales","4","0","4","2","2","5","2",26,17,97811,6,2,1
+"852","Some Travel","Sales","CA","Married","Yes","Yes","Business","White","Male","Sales","2","2","5","4","2","4","2",22,16,53220,0,1,1
+"853","No Travel ","Technology","CA","Divorced","No","No","STEM","White","Female","AI/ML","2","3","2","4","3","4","3",22,6,38169,4,2,0
+"854","Some Travel","Sales","CA","Married","No","Yes","Business","White","Female","Sales","3","1","5","5","4","2","3",28,44,304858,7,3,0
+"856","Some Travel","Technology","NY","Married","No","No","STEM","White","Female","Software Engineer","1","1","3","3","4","5","2",47,23,221827,0,3,1
+"857","Some Travel","Technology","CA","Single","Yes","No","STEM","White","Male","AI/ML","3","0","5","3","4","3","3",27,28,20387,0,2,2
+"858","Some Travel","Technology","CA","Single","No","No","STEM","White","Male","Software Engineer","3","0","5","3","2","4","4",25,26,85412,5,3,1
+"859","Some Travel","Technology","NY","Married","No","No","Business","Mixed/Other","Male","AI/ML","4","1","4","3","2","2","4",23,19,25986,4,1,1
+"860","Some Travel","Sales","NY","Married","No","No","STEM","Mixed/Other","Male","Sales","4","1","3","4","2","5","5",32,15,208435,2,2,0
+"861","Some Travel","Technology","IL","Divorced","No","Yes","STEM","White","Male","Software Engineer","3","1","3","5","2","5","5",22,6,43072,2,3,1
+"863","No Travel ","Technology","NY","Divorced","No","No","STEM","Mixed/Other","Female","Software Engineer","4","1","4","4","2","4","3",23,24,69325,4,1,0
+"864","Some Travel","Sales","CA","Married","No","No","Business","Mixed/Other","Female","Management","4","0","4","4","3","2","2",27,19,149813,1,3,0
+"865","Some Travel","Technology","NY","Married","No","No","STEM","White","Female","Software Engineer","2","2","3","2","4","4","2",36,35,60585,7,2,0
+"867","Some Travel","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Female","Software Engineer","4","2","5","2","4","4","4",36,21,57327,8,2,0
+"868","Some Travel","Human Resources","CA","Divorced","Yes","Yes","HR","White","Male","HR","4","0","2","1","4","3","2",20,8,26186,0,1,1
+"869","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","2","0","4","4","5","2","3",35,4,423941,1,2,3
+"870","Some Travel","Sales","NY","Married","Yes","No","Business","White","Male","Management","1","1","5","3","5","3","3",41,35,314961,0,2,1
+"871","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","Software Engineer","1","0","3","2","5","3","5",21,30,31624,3,3,0
+"872","Some Travel","Technology","CA","Single","Yes","Yes","STEM","Black","Female","Software Engineer","4","3","5","3","5","5","3",19,11,27760,0,1,1
+"873","Some Travel","Technology","CA","Married","Yes","Yes","STEM","Mixed/Other","Female","AI/ML","3","1","5","3","3","4","5",28,24,46313,1,2,2
+"874","Some Travel","Sales","IL","Married","No","No","Business","Mixed/Other","Male","Sales","1","0","1","3","1","3","4",41,11,81654,4,2,1
+"875","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","AI/ML","1","1","5","2","5","4","4",47,37,62999,3,3,0
+"876","Some Travel","Sales","CA","Married","No","No","Other","White","Female","Sales","3","1","5","5","5","4","3",22,25,48716,1,3,0
+"878","Frequent Traveller","Technology","CA","Divorced","No","No","STEM","Black","Female","AI/ML","1","2","3","2","5","4","3",32,14,97595,0,2,3
+"879","Frequent Traveller","Human Resources","IL","Married","No","No","Business","White","Female","HR","3","1","5","2","2","5","3",19,24,25838,0,2,0
+"880","Some Travel","Sales","CA","Single","No","No","Business","Mixed/Other","Other","Management","5","0","5","5","2","2","3",27,31,205622,5,3,1
+"881","Some Travel","Technology","CA","Married","No","No","Other","White","Female","AI/ML","2","1","4","4","5","4","5",26,21,89366,5,2,1
+"882","Frequent Traveller","Technology","CA","Single","Yes","No","STEM","Mixed/Other","Male","AI/ML","4","0","5","2","2","3","5",38,23,231699,0,3,0
+"884","Some Travel","Sales","CA","Married","No","No","Business","White","Female","Sales","4","1","4","4","4","4","2",28,1,87039,5,1,2
+"885","No Travel ","Sales","CA","Married","No","No","Business","White","Male","Sales","2","1","3","5","2","3","4",26,5,93170,6,3,0
+"886","No Travel ","Sales","IL","Married","No","Yes","STEM","White","Female","Sales","2","1","5","3","2","4","4",26,8,61686,0,2,0
+"888","Some Travel","Sales","CA","Married","No","No","Business","Mixed/Other","Female","Sales","3","1","4","4","2","3","3",39,15,136970,8,2,0
+"889","No Travel ","Sales","NY","Single","No","No","Business","White","Female","Sales","2","0","3","3","4","4","4",39,12,89351,2,2,1
+"890","Some Travel","Sales","NY","Married","No","Yes","Business","Mixed/Other","Other","Sales","3","1","3","3","3","4","5",37,30,61117,5,1,0
+"891","No Travel ","Technology","CA","Divorced","No","No","Business","Asian","Female","Software Engineer","1","3","3","4","5","3","3",40,26,48125,8,1,0
+"892","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","Management","1","1","3","4","5","3","5",31,6,376853,1,2,2
+"893","Some Travel","Sales","NY","Divorced","Yes","Yes","Business","White","Male","Sales","5","3","5","5","4","2","4",25,33,87347,1,2,1
+"894","No Travel ","Human Resources","NY","Divorced","No","No","HR","Asian","Female","HR","3","3","4","4","3","3","4",24,5,41745,4,3,0
+"896","Some Travel","Human Resources","NY","Divorced","No","Yes","HR","Black","Female","HR","2","1","3","2","2","4","2",45,34,54132,10,3,0
+"897","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","Software Engineer","5","0","5","2","4","5","2",30,42,93181,9,3,1
+"898","Some Travel","Sales","CA","Single","Yes","Yes","Business","Asian","Male","Sales","4","0","4","3","3","4","3",26,2,60087,0,1,0
+"899","Some Travel","Technology","CA","Married","No","No","STEM","Mixed/Other","Female","Management","2","1","3","2","4","2","4",26,23,221954,3,2,3
+"902","Some Travel","Sales","CA","Married","No","No","Business","Asian","Male","Sales","2","1","5","4","4","2","5",28,3,128719,3,2,0
+"903","Some Travel","Technology","CA","Single","No","Yes","Business","White","Other","Software Engineer","1","0","5","3","2","2","3",27,20,22986,7,1,1
+"904","Some Travel","Technology","CA","Married","Yes","No","STEM","White","Female","AI/ML","2","1","3","3","4","2","5",28,12,115895,3,2,0
+"905","Frequent Traveller","Technology","NY","Divorced","No","No","STEM","Black","Female","Software Engineer","4","1","3","2","2","3","4",40,27,42333,5,3,1
+"906","No Travel ","Sales","CA","Single","No","No","Business","White","Male","Sales","1","0","3","2","5","4","3",22,41,27961,1,1,2
+"907","Some Travel","Technology","NY","Married","No","No","STEM","Black","Female","AI/ML","4","2","4","5","5","2","4",30,26,36280,9,3,1
+"908","Some Travel","Sales","IL","Divorced","No","No","Business","Mixed/Other","Female","Sales","4","1","5","4","3","5","4",36,20,220472,1,2,0
+"910","Some Travel","Sales","CA","Married","No","No","Business","Asian","Male","Sales","2","2","5","4","4","2","5",28,45,110057,5,1,1
+"911","Frequent Traveller","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","3","0","4","3","2","5","5",21,7,76518,2,3,1
+"912","Some Travel","Technology","NY","Married","No","No","Business","White","Other","Management","2","0","5","4","3","5","4",40,29,295688,5,1,0
+"913","Frequent Traveller","Technology","NY","Married","Yes","Yes","Business","White","Male","Software Engineer","3","1","3","4","4","5","5",28,3,58993,7,1,1
+"915","Some Travel","Technology","NY","Single","No","Yes","Business","Black","Male","Software Engineer","5","0","3","2","5","4","3",29,36,113448,4,2,1
+"916","Frequent Traveller","Human Resources","CA","Divorced","Yes","No","HR","Mixed/Other","Male","HR","3","1","5","3","5","2","4",26,17,30502,0,1,0
+"917","Some Travel","Human Resources","NY","Married","Yes","Yes","Business","White","Female","HR","2","0","3","2","5","3","2",22,7,29322,0,1,0
+"918","Some Travel","Technology","CA","Single","No","No","STEM","Black","Male","Software Engineer","2","0","5","2","4","5","3",32,36,78672,9,3,1
+"919","Some Travel","Technology","IL","Married","No","No","Other","White","Female","AI/ML","4","0","5","3","5","5","5",24,27,33554,2,3,2
+"920","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","AI/ML","3","2","4","3","2","4","2",26,18,26414,5,3,1
+"921","Some Travel","Technology","IL","Married","No","Yes","STEM","Mixed/Other","Female","Management","3","1","3","3","5","2","3",29,32,388605,5,2,1
+"922","No Travel ","Technology","CA","Married","No","No","STEM","White","Female","AI/ML","3","1","2","4","3","3","3",26,21,26919,5,3,3
+"923","No Travel ","Technology","CA","Divorced","No","No","STEM","White","Male","Software Engineer","3","3","3","2","4","4","4",40,28,46285,8,2,2
+"924","Frequent Traveller","Sales","CA","Single","Yes","No","Business","Mixed/Other","Female","Sales","3","0","5","5","2","2","4",29,18,177402,5,1,0
+"925","Frequent Traveller","Sales","NY","Married","Yes","No","Business","Mixed/Other","Other","Sales","4","2","1","3","3","1","3",22,28,39845,0,2,1
+"926","Some Travel","Technology","CA","Married","No","No","STEM","White","Female","AI/ML","3","1","3","5","4","2","4",47,7,116165,7,3,0
+"928","No Travel ","Technology","IL","Married","No","No","STEM","Black","Female","Software Engineer","4","3","3","4","4","4","3",25,24,44146,1,2,2
+"929","Some Travel","Technology","NY","Single","No","No","Other","White","Female","AI/ML","3","0","1","4","3","2","5",22,21,33354,2,1,1
+"930","Some Travel","Human Resources","CA","Married","No","No","HR","White","Male","HR","3","0","5","3","2","5","3",41,36,131047,4,1,0
+"931","No Travel ","Technology","IL","Married","Yes","Yes","Business","Mixed/Other","Male","Software Engineer","4","1","2","4","2","2","5",26,15,35373,3,3,0
+"932","Some Travel","Sales","CA","Single","No","No","Business","Mixed/Other","Female","Sales","2","0","5","4","4","5","5",27,45,57102,6,1,1
+"933","Some Travel","Technology","IL","Divorced","No","Yes","STEM","Mixed/Other","Other","Software Engineer","3","2","3","4","4","3","3",25,19,90418,4,3,3
+"934","Some Travel","Sales","NY","Divorced","No","No","Business","Mixed/Other","Female","Sales","4","2","4","3","2","4","3",23,19,87629,4,3,0
+"935","Some Travel","Technology","NY","Single","No","No","STEM","White","Male","Software Engineer","3","0","4","3","4","3","3",24,12,33202,5,1,2
+"936","Frequent Traveller","Technology","CA","Single","No","No","STEM","White","Other","Software Engineer","1","0","5","2","3","5","2",28,40,187698,1,2,2
+"937","Some Travel","Technology","IL","Married","No","No","STEM","White","Female","Software Engineer","2","0","3","3","2","2","3",23,34,29956,1,1,0
+"938","Some Travel","Sales","CA","Divorced","No","No","STEM","White","Other","Sales","1","1","5","3","2","3","4",24,33,24174,2,1,2
+"939","Some Travel","Sales","CA","Single","No","Yes","Business","Mixed/Other","Male","Sales","3","0","5","4","2","3","4",43,27,128885,10,1,1
+"940","Some Travel","Technology","NY","Divorced","No","No","STEM","White","Male","AI/ML","5","1","4","2","1","3","3",24,17,63747,1,3,2
+"941","Frequent Traveller","Technology","NY","Single","Yes","Yes","Business","White","Male","Software Engineer","3","0","5","3","4","3","4",22,2,37014,1,1,1
+"942","Frequent Traveller","Technology","CA","Married","No","No","Other","Mixed/Other","Male","Software Engineer","4","1","4","5","2","4","2",21,37,32679,3,1,1
+"944","Frequent Traveller","Sales","IL","Single","Yes","Yes","Other","Mixed/Other","Female","Sales","4","0","3","2","4","3","3",25,3,56163,0,2,0
+"945","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Male","Software Engineer","3","1","2","4","1","3","5",26,39,60494,7,3,1
+"946","Some Travel","Technology","CA","Single","No","Yes","STEM","White","Male","Software Engineer","4","0","1","4","4","1","2",23,42,28824,2,1,2
+"947","Frequent Traveller","Technology","NY","Single","Yes","No","STEM","Mixed/Other","Female","Software Engineer","3","0","3","5","5","3","2",26,14,36794,4,1,1
+"949","Some Travel","Technology","IL","Single","No","No","STEM","Black","Female","Software Engineer","3","0","5","3","4","5","3",26,45,74096,5,2,2
+"950","Frequent Traveller","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Male","AI/ML","4","1","3","4","5","2","4",24,14,67538,4,1,0
+"951","Frequent Traveller","Sales","NY","Single","No","No","Business","White","Other","Sales","3","0","3","3","2","5","3",41,3,248987,9,2,2
+"952","No Travel ","Human Resources","NY","Divorced","No","No","Business","Mixed/Other","Female","HR","2","1","5","5","3","4","4",31,25,55682,2,2,2
+"954","Some Travel","Sales","NY","Married","No","No","Business","White","Male","Sales","3","1","3","5","4","5","3",44,29,126073,2,1,0
+"955","Some Travel","Technology","CA","Single","No","Yes","STEM","Asian","Male","AI/ML","3","0","5","4","5","2","5",28,2,220234,7,2,0
+"957","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Female","Software Engineer","3","1","3","5","2","4","2",36,32,111294,8,2,0
+"958","Some Travel","Technology","NY","Married","No","Yes","STEM","White","Female","AI/ML","2","1","1","4","3","4","2",25,40,80779,4,3,1
+"959","Some Travel","Sales","NY","Married","No","Yes","Business","White","Male","Sales","2","1","3","2","4","3","4",40,35,63455,8,1,0
+"960","No Travel ","Sales","CA","Single","No","No","Business","White","Male","Sales","5","0","3","2","3","4","4",48,9,125587,10,3,2
+"961","No Travel ","Technology","CA","Divorced","No","No","STEM","White","Male","Software Engineer","4","1","2","4","4","4","3",27,21,73326,5,1,1
+"962","Frequent Traveller","Technology","CA","Divorced","No","Yes","STEM","Mixed/Other","Male","Software Engineer","4","1","3","3","5","5","5",45,6,92613,6,2,0
+"964","Some Travel","Sales","NY","Divorced","No","No","Business","Mixed/Other","Male","Sales","2","1","4","2","4","2","5",34,30,133468,7,3,0
+"966","Some Travel","Technology","NY","Single","No","No","STEM","Black","Male","Management","5","0","4","2","3","4","3",25,13,178337,7,1,2
+"967","Some Travel","Technology","CA","Single","No","No","STEM","White","Other","AI/ML","4","0","5","5","2","5","5",26,28,29791,7,1,2
+"968","Frequent Traveller","Technology","CA","Single","No","No","STEM","Mixed/Other","Female","Software Engineer","4","0","1","4","3","2","2",35,39,71257,6,2,3
+"969","Frequent Traveller","Technology","NY","Married","No","No","STEM","Mixed/Other","Male","AI/ML","4","1","5","4","2","4","4",25,20,96514,4,3,0
+"970","Some Travel","Technology","NY","Divorced","No","No","STEM","White","Other","Software Engineer","2","2","4","2","3","3","4",26,8,27219,5,3,0
+"972","Some Travel","Sales","IL","Married","No","No","Business","Asian","Male","Sales","4","2","5","4","4","5","5",42,16,106277,5,1,2
+"973","Some Travel","Sales","NY","Divorced","No","Yes","Business","White","Female","Sales","2","1","4","2","4","4","4",34,16,100710,10,3,0
+"974","Some Travel","Technology","NY","Single","No","Yes","STEM","White","Female","AI/ML","3","0","3","4","4","4","5",36,41,218940,8,3,3
+"975","Some Travel","Technology","IL","Married","No","No","Business","Mixed/Other","Female","Software Engineer","3","1","4","3","3","5","2",27,45,28828,6,3,0
+"976","Some Travel","Human Resources","CA","Divorced","No","Yes","STEM","Mixed/Other","Male","HR","1","1","3","2","4","2","5",33,3,53616,3,2,0
+"977","Some Travel","Sales","CA","Married","Yes","No","Business","White","Male","Sales","4","0","5","3","4","4","4",45,22,270302,0,1,1
+"978","Some Travel","Technology","IL","Married","No","Yes","STEM","White","Male","Software Engineer","3","1","5","5","4","3","3",37,22,193287,1,3,1
+"979","Some Travel","Technology","CA","Single","No","Yes","STEM","White","Female","AI/ML","3","0","3","4","4","2","3",25,34,45286,3,1,0
+"983","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","AI/ML","4","1","5","5","4","4","4",23,11,22488,2,3,1
+"984","No Travel ","Technology","CA","Single","Yes","Yes","STEM","Asian","Male","AI/ML","3","0","3","3","3","2","3",24,35,32502,1,2,0
+"987","Frequent Traveller","Technology","CA","Single","Yes","No","Business","Mixed/Other","Female","Software Engineer","1","0","3","2","5","3","3",25,24,40314,3,1,1
+"988","Some Travel","Technology","NY","Married","No","No","STEM","White","Male","AI/ML","2","2","5","4","2","3","5",29,8,119083,6,3,2
+"989","No Travel ","Sales","CA","Married","No","No","Business","White","Female","Sales","2","1","4","2","4","3","4",42,10,48922,9,1,1
+"992","Some Travel","Technology","IL","Single","No","No","STEM","Mixed/Other","Female","AI/ML","4","0","5","5","2","4","3",32,20,85884,9,3,2
+"993","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","Software Engineer","3","1","2","1","2","4","5",30,19,125751,1,2,0
+"994","Some Travel","Technology","NY","Married","No","No","STEM","White","Male","Software Engineer","1","2","4","5","5","5","5",26,15,45085,4,2,0
+"995","Frequent Traveller","Technology","CA","Divorced","Yes","Yes","STEM","White","Female","AI/ML","1","1","3","3","3","2","3",32,13,48835,7,1,2
+"996","Some Travel","Technology","NY","Divorced","No","No","STEM","Asian","Female","AI/ML","4","3","4","2","5","5","5",27,25,24571,5,3,0
+"997","Frequent Traveller","Sales","NY","Married","No","No","Business","White","Female","Sales","3","1","5","2","4","2","3",27,21,66488,6,1,0
+"998","Some Travel","Technology","CA","Single","No","Yes","STEM","Mixed/Other","Male","Software Engineer","4","0","4","4","5","5","3",23,30,54171,3,2,3
+"999","Some Travel","Sales","CA","Married","No","No","Business","White","Other","Sales","1","0","4","3","2","3","3",30,11,127014,8,2,2
+"1000","Some Travel","Technology","CA","Married","No","No","Business","White","Male","AI/ML","3","1","1","4","4","4","3",21,40,58274,3,2,1
+"1001","Some Travel","Sales","CA","Married","No","No","Business","Mixed/Other","Male","Sales","3","1","3","1","4","4","5",44,35,75667,6,2,0
+"1002","Some Travel","Technology","NY","Divorced","No","No","STEM","White","Male","Software Engineer","2","2","5","2","5","4","4",21,22,73075,1,3,2
+"1003","Some Travel","Sales","CA","Married","No","No","Business","White","Female","Sales","1","1","3","2","5","4","5",41,16,48147,10,3,1
+"1005","No Travel ","Technology","NY","Single","Yes","Yes","STEM","Black","Male","Software Engineer","2","0","2","4","1","4","2",28,17,54324,3,2,2
+"1006","Some Travel","Human Resources","NY","Married","No","No","Business","White","Female","HR","3","0","3","3","2","3","5",22,11,26880,2,2,0
+"1008","Some Travel","Technology","CA","Married","No","No","STEM","Mixed/Other","Female","AI/ML","3","2","4","4","2","2","4",32,33,121881,8,3,1
+"1010","Some Travel","Sales","CA","Single","Yes","Yes","STEM","White","Male","Sales","1","0","3","4","3","5","2",26,44,40638,0,3,0
+"1011","Some Travel","Sales","CA","Single","No","Yes","Business","White","Male","Sales","4","0","3","4","4","2","4",38,23,157718,10,3,0
+"1012","No Travel ","Sales","CA","Single","No","No","Business","White","Female","Management","3","0","3","4","4","1","3",40,9,254535,2,1,2
+"1013","Frequent Traveller","Technology","CA","Single","Yes","Yes","STEM","White","Male","AI/ML","3","0","3","3","5","4","2",29,26,78541,5,1,0
+"1014","Some Travel","Technology","IL","Married","No","No","STEM","White","Male","Software Engineer","3","1","4","5","2","5","2",31,10,168087,7,2,0
+"1015","Some Travel","Technology","CA","Married","No","Yes","STEM","Mixed/Other","Female","AI/ML","2","1","4","2","4","5","2",25,27,84770,5,3,1
+"1016","Some Travel","Technology","CA","Married","Yes","No","Business","Mixed/Other","Female","AI/ML","2","1","3","4","3","3","5",28,23,65328,4,2,1
+"1017","Some Travel","Technology","CA","Divorced","No","Yes","STEM","White","Male","Management","3","3","3","4","5","4","3",44,29,304520,2,2,2
+"1018","Some Travel","Technology","NY","Married","No","No","STEM","Asian","Male","AI/ML","3","2","4","3","2","3","3",36,11,236739,4,3,1
+"1019","No Travel ","Technology","CA","Single","No","No","STEM","White","Female","Software Engineer","3","0","2","3","2","4","3",28,43,50175,9,1,0
+"1020","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Male","Software Engineer","4","1","3","1","4","2","3",43,38,155786,7,2,0
+"1021","Some Travel","Sales","CA","Single","No","No","Business","Asian","Other","Sales","4","0","3","5","5","4","3",30,37,341039,4,2,2
+"1022","Frequent Traveller","Sales","CA","Married","No","No","Business","Black","Male","Sales","3","1","4","2","2","2","2",25,25,46283,6,2,1
+"1023","Some Travel","Technology","CA","Single","No","No","STEM","Black","Female","AI/ML","5","0","4","4","3","3","4",22,41,75810,4,1,1
+"1025","Some Travel","Technology","NY","Single","Yes","Yes","Other","Black","Male","Software Engineer","4","0","5","3","5","2","3",26,8,22918,0,1,1
+"1026","Frequent Traveller","Technology","CA","Married","No","No","STEM","Black","Female","AI/ML","3","1","3","3","4","3","2",27,40,31672,3,1,0
+"1027","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","Software Engineer","1","0","5","4","3","3","3",27,16,54379,2,1,1
+"1029","Some Travel","Sales","CA","Married","No","No","STEM","White","Male","Sales","1","1","2","1","1","1","3",42,12,70535,8,3,3
+"1031","Some Travel","Sales","CA","Married","No","No","Business","White","Male","Sales","2","1","4","5","2","5","4",45,20,76693,9,3,1
+"1032","Frequent Traveller","Technology","CA","Divorced","No","Yes","STEM","Mixed/Other","Male","Software Engineer","3","1","5","4","4","5","3",21,36,22462,2,3,1
+"1034","Frequent Traveller","Sales","IL","Single","Yes","Yes","Other","White","Male","Sales","4","0","3","2","2","3","4",21,36,46452,1,1,3
+"1035","Some Travel","Sales","NY","Single","Yes","No","Business","White","Female","Sales","3","0","2","2","1","3","2",20,16,35754,0,3,1
+"1037","No Travel ","Technology","CA","Single","No","No","Business","White","Male","Software Engineer","4","0","3","3","2","3","2",22,25,31386,2,3,1
+"1038","Some Travel","Sales","CA","Married","No","No","STEM","Black","Male","Sales","2","2","5","3","5","3","5",46,20,150731,9,1,1
+"1039","Some Travel","Sales","NY","Married","No","No","STEM","White","Female","Sales","4","1","4","4","3","4","5",40,2,204005,7,3,0
+"1040","Some Travel","Sales","CA","Married","No","Yes","Business","White","Male","Sales","2","1","3","3","2","3","2",36,38,298558,4,1,2
+"1041","Some Travel","Sales","NY","Single","Yes","Yes","Business","White","Female","Sales","3","0","3","1","1","3","4",19,21,33454,0,2,1
+"1042","No Travel ","Technology","IL","Divorced","No","No","STEM","Asian","Female","Management","1","1","3","5","4","2","3",27,8,152322,5,3,1
+"1043","Some Travel","Sales","CA","Married","No","No","Business","White","Female","Sales","3","2","3","2","3","5","3",42,39,206277,10,1,2
+"1044","Some Travel","Technology","CA","Single","No","No","STEM","White","Male","Software Engineer","3","1","3","2","4","2","4",19,26,43961,1,1,0
+"1045","Some Travel","Technology","CA","Divorced","No","Yes","STEM","White","Male","Software Engineer","4","1","2","2","4","4","4",26,10,148080,7,1,2
+"1046","Some Travel","Technology","CA","Married","No","No","STEM","Mixed/Other","Male","AI/ML","4","0","3","3","3","5","3",24,45,38022,5,1,0
+"1047","Frequent Traveller","Technology","CA","Married","No","No","STEM","Black","Male","Software Engineer","3","1","1","1","1","2","4",25,23,22525,4,2,0
+"1049","Frequent Traveller","Sales","CA","Single","Yes","No","Business","Mixed/Other","Male","Sales","4","0","5","4","5","5","4",25,19,28090,0,3,0
+"1050","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Female","AI/ML","2","1","4","4","2","5","5",42,9,73577,9,3,0
+"1052","Frequent Traveller","Technology","NY","Divorced","No","No","STEM","White","Female","Software Engineer","3","1","4","2","4","3","3",30,28,46388,6,3,0
+"1053","Frequent Traveller","Technology","NY","Married","No","Yes","STEM","Mixed/Other","Male","AI/ML","4","1","5","2","4","5","3",24,10,67447,6,3,0
+"1054","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","Software Engineer","4","1","3","2","3","4","4",27,34,50949,7,3,2
+"1055","Some Travel","Sales","CA","Married","No","No","Business","Mixed/Other","Male","Sales","3","2","5","4","5","4","2",24,29,105859,5,2,0
+"1056","Frequent Traveller","Sales","NY","Single","No","No","Business","Black","Male","Sales","3","0","1","4","3","4","5",24,9,45410,3,3,1
+"1058","No Travel ","Sales","NY","Single","No","No","Business","White","Male","Sales","3","0","4","2","5","2","4",24,3,128634,4,2,0
+"1059","Some Travel","Technology","NY","Divorced","Yes","No","STEM","White","Male","AI/ML","1","3","4","2","2","4","5",29,36,86428,5,3,0
+"1060","Some Travel","Technology","NY","Divorced","No","No","STEM","Mixed/Other","Female","AI/ML","2","2","4","3","2","4","3",28,27,117918,8,1,0
+"1063","Frequent Traveller","Sales","CA","Single","No","No","Business","White","Female","Sales","3","0","3","5","5","5","2",47,21,65626,5,2,0
+"1065","Some Travel","Sales","CA","Single","No","No","Business","Black","Male","Sales","3","0","3","5","4","3","3",26,7,36101,6,3,1
+"1066","Some Travel","Sales","CA","Married","No","No","Business","Asian","Male","Sales","2","2","4","4","4","4","4",33,41,71201,10,1,2
+"1067","Some Travel","Human Resources","NY","Single","No","No","Business","White","Male","HR","2","0","3","4","2","5","3",21,41,20583,1,1,0
+"1068","Some Travel","Technology","NY","Single","No","No","STEM","White","Female","Software Engineer","3","0","5","3","4","4","4",44,13,57296,7,1,0
+"1069","Some Travel","Technology","NY","Single","No","No","STEM","White","Male","AI/ML","3","0","3","5","2","2","2",38,39,65416,10,2,1
+"1070","Some Travel","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Female","AI/ML","3","3","3","2","2","2","4",40,26,59899,3,3,0
+"1071","Some Travel","Human Resources","CA","Single","No","No","STEM","White","Female","HR","4","0","5","2","5","5","4",40,7,70703,9,1,2
+"1072","Some Travel","Technology","CA","Single","No","No","STEM","White","Other","AI/ML","3","0","3","5","2","4","5",21,37,43030,1,1,1
+"1073","Frequent Traveller","Technology","NY","Divorced","No","Yes","STEM","White","Male","AI/ML","5","1","5","4","5","5","2",28,40,109172,3,1,2
+"1074","Some Travel","Technology","NY","Single","No","No","STEM","White","Female","Software Engineer","3","0","3","3","2","3","4",24,33,115399,5,3,2
+"1075","Some Travel","Sales","IL","Single","No","No","Business","Black","Other","Sales","2","0","3","3","2","3","2",24,8,85238,4,1,0
+"1076","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","Software Engineer","3","1","5","2","3","3","2",25,18,55541,5,1,0
+"1077","Some Travel","Technology","CA","Divorced","No","Yes","Other","Mixed/Other","Male","Management","4","1","3","5","5","5","2",25,24,204154,3,3,2
+"1078","Frequent Traveller","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Female","AI/ML","4","1","3","3","4","5","4",23,16,67558,1,2,0
+"1079","Frequent Traveller","Sales","CA","Married","Yes","Yes","STEM","White","Female","Sales","2","1","3","3","3","2","4",39,17,107863,8,1,1
+"1080","Some Travel","Sales","CA","Single","No","No","Business","White","Male","Sales","3","0","5","2","2","3","2",36,13,121303,3,1,2
+"1082","Some Travel","Technology","NY","Married","No","No","STEM","Black","Female","Software Engineer","2","1","5","4","4","2","5",44,21,91563,9,3,0
+"1083","Some Travel","Sales","NY","Married","No","Yes","STEM","White","Female","Sales","3","0","3","4","4","5","3",27,25,91202,7,1,1
+"1084","Frequent Traveller","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","5","0","3","4","3","1","5",32,40,60759,6,3,0
+"1085","Some Travel","Technology","CA","Married","Yes","Yes","Business","White","Female","AI/ML","1","1","4","4","5","4","5",22,40,53080,1,3,1
+"1086","Some Travel","Technology","CA","Married","No","Yes","STEM","White","Male","Software Engineer","1","0","4","2","3","4","2",20,23,26752,1,3,0
+"1087","Some Travel","Sales","CA","Divorced","Yes","Yes","Business","White","Female","Sales","3","3","4","2","3","3","4",22,10,36980,0,1,1
+"1088","No Travel ","Technology","NY","Married","No","No","STEM","Black","Female","Management","3","1","3","5","3","2","4",42,45,259284,6,3,3
+"1089","Frequent Traveller","Sales","CA","Married","Yes","Yes","Business","White","Female","Sales","2","2","3","2","1","2","3",22,26,42250,3,3,0
+"1090","Some Travel","Technology","CA","Single","No","No","Business","White","Female","Software Engineer","4","0","3","3","2","2","2",45,7,104720,7,3,2
+"1091","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Male","Management","2","2","3","4","1","4","4",40,39,409998,6,3,0
+"1092","Frequent Traveller","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","3","0","5","3","3","4","4",19,45,32322,1,1,3
+"1093","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Other","Management","4","2","4","5","4","3","3",42,33,213191,1,1,2
+"1094","Some Travel","Sales","NY","Single","Yes","Yes","Business","White","Female","Sales","4","0","4","3","2","4","5",24,27,208684,0,1,1
+"1096","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Male","AI/ML","1","1","5","3","4","4","3",23,33,29490,1,2,1
+"1097","Some Travel","Technology","CA","Married","Yes","No","STEM","Asian","Female","AI/ML","3","0","4","3","5","2","4",29,36,46813,1,3,1
+"1099","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","AI/ML","2","2","2","1","3","2","2",23,15,78275,3,1,3
+"1100","Some Travel","Technology","NY","Married","No","No","STEM","White","Female","Management","3","0","5","2","5","5","4",26,18,178836,5,3,0
+"1101","Some Travel","Technology","CA","Single","Yes","Yes","STEM","White","Male","AI/ML","2","0","3","2","4","3","3",27,22,56449,1,3,0
+"1102","Some Travel","Sales","CA","Married","No","No","Business","Mixed/Other","Female","Sales","3","1","4","4","4","4","4",24,4,133274,3,1,0
+"1103","Frequent Traveller","Technology","CA","Single","No","No","STEM","Mixed/Other","Female","AI/ML","2","0","3","2","4","2","5",22,29,45850,3,2,2
+"1106","Frequent Traveller","Technology","CA","Married","No","Yes","STEM","White","Female","Software Engineer","4","2","1","1","2","2","5",27,1,56302,5,3,0
+"1107","Some Travel","Technology","CA","Divorced","No","No","Other","White","Male","Management","3","1","3","5","3","2","2",25,25,303446,3,1,1
+"1108","Some Travel","Technology","NY","Married","No","No","STEM","Mixed/Other","Male","Software Engineer","3","1","4","3","4","5","4",25,33,24417,6,2,0
+"1109","Some Travel","Technology","NY","Divorced","No","No","STEM","White","Male","AI/ML","1","3","3","5","4","3","4",22,8,54371,4,3,1
+"1110","Some Travel","Sales","CA","Single","No","Yes","Business","Mixed/Other","Female","Sales","4","0","5","4","2","3","3",30,24,38382,8,3,1
+"1113","Some Travel","Human Resources","IL","Married","No","No","HR","Mixed/Other","Male","HR","3","0","1","2","2","2","4",24,36,29428,5,2,1
+"1114","Some Travel","Technology","CA","Married","No","No","Other","Asian","Female","AI/ML","2","1","5","4","2","3","5",38,25,60549,6,2,0
+"1116","Some Travel","Sales","CA","Single","Yes","Yes","Business","White","Female","Sales","4","0","1","2","3","2","4",26,10,93246,0,1,2
+"1117","Some Travel","Technology","CA","Single","Yes","No","STEM","Mixed/Other","Female","Software Engineer","1","0","5","4","2","2","2",22,2,24422,0,3,0
+"1118","Some Travel","Technology","NY","Married","No","No","STEM","White","Other","Software Engineer","4","1","4","4","3","2","2",43,31,130665,9,3,0
+"1120","Some Travel","Technology","CA","Single","No","No","STEM","White","Female","Management","4","0","4","2","4","4","2",33,3,307688,2,3,2
+"1121","Some Travel","Technology","NY","Single","No","No","STEM","Asian","Female","Software Engineer","4","0","5","3","3","5","3",30,32,155259,5,1,0
+"1122","Frequent Traveller","Technology","CA","Single","Yes","No","STEM","White","Male","AI/ML","5","0","4","4","3","5","5",28,22,205433,2,3,1
+"1124","Some Travel","Technology","CA","Single","No","Yes","STEM","Mixed/Other","Female","Software Engineer","2","0","4","5","5","5","4",32,2,152314,6,2,0
+"1125","No Travel ","Technology","CA","Married","No","Yes","STEM","Mixed/Other","Female","Management","1","0","1","3","4","2","5",46,21,281175,2,3,1
+"1128","Some Travel","Sales","CA","Married","No","No","Business","Black","Male","Sales","3","0","3","4","4","3","3",47,23,44646,5,2,0
+"1129","Frequent Traveller","Sales","NY","Single","Yes","No","Business","White","Male","Sales","4","0","2","4","1","4","3",22,4,75816,0,3,2
+"1130","Some Travel","Sales","NY","Married","No","No","Business","Mixed/Other","Male","Sales","1","2","5","4","3","2","5",28,10,83864,7,1,2
+"1131","No Travel ","Sales","NY","Married","No","No","Business","White","Male","Sales","4","2","5","3","5","2","4",43,34,108315,10,2,3
+"1132","Some Travel","Technology","CA","Single","Yes","No","STEM","White","Female","AI/ML","4","0","4","2","2","3","3",22,13,64364,0,1,1
+"1136","Some Travel","Technology","NY","Single","No","Yes","Other","Mixed/Other","Female","Software Engineer","4","0","4","3","5","5","2",25,24,41243,4,1,1
+"1138","Some Travel","Technology","CA","Single","No","No","STEM","Mixed/Other","Other","Software Engineer","3","0","5","4","3","3","3",25,8,126055,4,3,0
+"1139","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","AI/ML","3","1","4","5","2","4","3",28,38,151229,0,2,1
+"1142","Some Travel","Sales","NY","Single","Yes","No","Business","White","Other","Sales","1","0","5","4","4","2","4",22,5,64689,1,2,1
+"1143","Some Travel","Sales","IL","Single","No","No","Business","White","Female","Sales","4","0","5","2","5","2","3",21,18,49374,2,2,1
+"1144","Some Travel","Sales","CA","Divorced","No","No","Business","Asian","Female","Sales","4","2","5","5","3","5","5",38,9,114713,0,1,0
+"1145","No Travel ","Technology","IL","Divorced","No","Yes","STEM","White","Male","Software Engineer","2","1","5","3","5","2","2",36,36,61298,9,3,0
+"1146","Some Travel","Sales","CA","Married","No","No","Business","Mixed/Other","Male","Sales","4","2","4","3","2","2","5",24,31,105502,5,1,3
+"1147","Some Travel","Technology","NY","Single","Yes","No","Business","White","Male","Software Engineer","3","0","3","2","5","5","4",20,23,33632,0,3,1
+"1148","Some Travel","Technology","IL","Married","No","No","STEM","White","Male","Software Engineer","3","1","5","2","3","5","3",28,38,194982,7,3,2
+"1150","Some Travel","Sales","CA","Divorced","No","No","Business","White","Male","Sales","4","2","3","2","2","1","3",28,32,128222,7,3,0
+"1151","Some Travel","Technology","NY","Married","No","Yes","STEM","Black","Male","Software Engineer","1","1","4","4","4","3","4",26,14,33180,7,3,2
+"1152","No Travel ","Technology","CA","Married","No","No","STEM","Mixed/Other","Male","Software Engineer","5","1","5","2","2","3","3",22,13,68629,1,1,2
+"1153","Some Travel","Sales","NY","Single","Yes","Yes","Business","White","Female","Sales","2","0","4","4","2","2","5",29,19,122811,1,2,1
+"1154","Some Travel","Technology","NY","Single","No","No","STEM","Black","Male","Software Engineer","5","0","5","3","5","2","4",28,39,81906,4,2,1
+"1155","Some Travel","Sales","CA","Married","No","Yes","STEM","Mixed/Other","Male","Sales","2","0","4","3","3","4","4",27,42,68638,7,3,1
+"1156","Some Travel","Sales","NY","Married","No","No","Business","White","Female","Sales","1","1","2","4","2","4","2",21,11,42066,3,1,1
+"1157","No Travel ","Sales","CA","Single","Yes","Yes","Business","White","Male","Sales","3","0","4","3","3","5","4",41,34,326896,1,3,3
+"1158","No Travel ","Sales","NY","Married","No","No","Business","Asian","Female","Sales","4","1","3","4","5","2","5",36,33,116057,10,3,2
+"1160","Some Travel","Technology","CA","Married","No","No","STEM","Mixed/Other","Male","AI/ML","4","0","5","3","4","3","3",27,27,92522,5,1,2
+"1161","No Travel ","Sales","CA","Married","No","No","Business","White","Female","Sales","3","1","3","3","4","2","2",21,21,69402,3,3,1
+"1162","Frequent Traveller","Technology","CA","Single","Yes","No","STEM","White","Male","AI/ML","2","0","3","5","2","5","4",18,26,31532,0,3,1
+"1163","Some Travel","Sales","CA","Divorced","No","No","Business","White","Male","Sales","3","3","5","2","2","2","4",31,11,155386,2,1,0
+"1164","No Travel ","Technology","CA","Divorced","Yes","No","STEM","White","Female","Software Engineer","2","1","3","2","4","3","4",20,45,28262,0,1,0
+"1165","Some Travel","Sales","NY","Married","No","No","Business","Mixed/Other","Male","Sales","3","1","3","5","3","2","3",22,32,52318,4,1,0
+"1166","Some Travel","Technology","NY","Divorced","No","No","STEM","Asian","Male","Management","4","2","4","2","3","5","2",41,7,273211,4,2,3
+"1168","Some Travel","Technology","IL","Married","No","No","STEM","White","Female","AI/ML","4","1","5","2","3","4","4",38,39,83590,3,1,1
+"1169","Some Travel","Sales","CA","Single","No","No","Business","White","Male","Sales","4","0","4","2","5","4","4",42,26,91179,9,2,1
+"1170","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Male","AI/ML","1","2","3","5","4","5","5",24,16,55814,4,2,2
+"1171","Some Travel","Sales","CA","Married","No","No","Business","White","Female","Sales","2","1","5","5","3","5","3",27,34,129366,5,1,1
+"1172","Some Travel","Sales","CA","Single","No","Yes","Business","Black","Male","Sales","3","0","4","4","4","2","3",31,10,110076,8,3,1
+"1173","Some Travel","Sales","IL","Single","Yes","No","Business","White","Male","Sales","2","0","3","5","3","3","4",29,18,225330,0,1,3
+"1174","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","AI/ML","4","2","3","4","3","4","5",20,37,35654,2,2,3
+"1176","Some Travel","Human Resources","NY","Married","No","No","HR","Mixed/Other","Female","HR","3","1","4","2","2","3","3",30,19,97153,6,3,1
+"1178","Some Travel","Technology","CA","Single","No","No","STEM","White","Other","AI/ML","4","0","5","3","4","3","3",45,5,241664,1,1,0
+"1179","Some Travel","Technology","NY","Single","No","No","STEM","Mixed/Other","Male","AI/ML","1","0","2","2","2","4","2",42,5,47461,7,3,0
+"1180","Some Travel","Technology","NY","Married","No","Yes","STEM","White","Male","Software Engineer","1","1","4","3","4","4","4",26,20,207687,5,1,1
+"1181","Some Travel","Sales","IL","Married","No","No","Business","White","Female","Sales","3","1","3","3","4","5","5",23,5,69678,0,1,0
+"1182","Some Travel","Technology","CA","Single","No","No","Business","White","Male","Software Engineer","3","0","4","4","3","1","5",24,30,26363,6,1,0
+"1183","Some Travel","Technology","CA","Single","Yes","No","Business","Mixed/Other","Female","AI/ML","3","0","4","5","3","2","4",21,8,36534,0,1,0
+"1184","Some Travel","Technology","CA","Married","Yes","Yes","STEM","White","Male","AI/ML","3","2","2","3","4","1","3",25,20,27673,3,2,2
+"1186","Some Travel","Sales","CA","Divorced","Yes","Yes","Business","White","Male","Sales","3","1","3","4","3","3","5",20,8,27060,0,3,2
+"1187","Some Travel","Technology","CA","Married","Yes","No","STEM","Mixed/Other","Female","Software Engineer","4","1","3","3","3","4","4",41,18,268964,1,1,1
+"1189","Some Travel","Sales","CA","Single","No","No","Business","Black","Other","Sales","4","0","4","4","3","2","3",35,26,98435,9,1,1
+"1190","Some Travel","Human Resources","NY","Married","No","No","HR","White","Female","HR","3","1","2","2","2","1","4",28,31,96807,2,2,1
+"1192","Frequent Traveller","Technology","NY","Married","Yes","No","STEM","White","Male","Software Engineer","3","0","1","1","3","3","3",42,28,264513,0,2,0
+"1193","Frequent Traveller","Sales","NY","Married","No","No","Business","Black","Male","Sales","3","1","3","4","2","2","3",24,44,41741,1,1,0
+"1194","Some Travel","Sales","IL","Single","No","Yes","Business","White","Female","Sales","4","0","5","5","4","4","4",28,18,134427,9,3,1
+"1195","Some Travel","Sales","CA","Married","No","No","Business","Mixed/Other","Female","Sales","1","0","4","3","4","4","4",28,32,52528,4,1,1
+"1196","Frequent Traveller","Technology","NY","Married","No","No","STEM","Asian","Female","Software Engineer","1","1","4","5","4","5","4",45,19,136521,6,1,2
+"1197","Some Travel","Sales","CA","Single","No","No","Business","Black","Female","Management","4","0","4","4","4","4","5",35,36,396470,3,3,2
+"1198","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","Software Engineer","1","3","3","4","5","4","2",25,21,64398,3,3,3
+"1199","Frequent Traveller","Sales","CA","Married","No","No","STEM","Mixed/Other","Female","Sales","3","1","4","3","4","4","4",47,19,46684,9,1,2
+"1200","Some Travel","Technology","NY","Single","No","No","STEM","White","Female","Software Engineer","3","0","3","4","5","4","3",21,17,44940,3,3,0
+"1201","Some Travel","Technology","NY","Married","No","No","STEM","White","Female","Software Engineer","2","2","3","4","2","2","5",47,17,46514,9,2,0
+"1202","Frequent Traveller","Technology","CA","Single","No","No","Business","White","Female","Software Engineer","4","0","4","4","2","2","5",24,26,133949,6,2,1
+"1203","Some Travel","Sales","CA","Single","No","No","Other","White","Female","Sales","3","0","4","5","4","3","2",23,19,27185,4,1,0
+"1204","Some Travel","Technology","IL","Married","Yes","Yes","STEM","Black","Male","AI/ML","3","0","5","4","2","5","4",25,22,21350,3,2,3
+"1205","Some Travel","Sales","NY","Married","No","No","Business","White","Male","Sales","1","0","4","4","5","2","5",26,3,56892,3,3,1
+"1206","Some Travel","Technology","NY","Divorced","Yes","Yes","Other","Black","Male","AI/ML","4","1","3","2","2","3","3",44,4,85523,4,3,1
+"1208","Some Travel","Technology","CA","Single","No","No","Other","White","Female","AI/ML","2","0","5","4","4","2","2",21,2,31254,1,3,0
+"1210","Some Travel","Technology","IL","Married","Yes","Yes","STEM","White","Other","Software Engineer","3","1","4","5","3","4","3",21,37,41476,0,2,1
+"1211","Some Travel","Sales","NY","Divorced","No","No","Business","White","Male","Sales","4","2","3","4","2","3","3",23,23,53590,2,1,1
+"1212","Some Travel","Technology","NY","Single","No","No","Other","White","Male","AI/ML","3","0","5","5","5","5","2",24,7,121470,2,2,2
+"1213","Some Travel","Human Resources","CA","Married","No","No","Business","Mixed/Other","Female","HR","3","2","4","4","5","4","5",25,31,48797,4,2,1
+"1216","Some Travel","Technology","CA","Married","No","Yes","Business","White","Male","Software Engineer","4","1","5","2","2","5","3",22,42,51272,0,1,1
+"1217","Frequent Traveller","Technology","CA","Married","No","No","STEM","Mixed/Other","Female","AI/ML","4","1","5","5","2","4","4",37,14,99936,10,2,0
+"1218","Some Travel","Sales","IL","Married","No","No","Business","Black","Male","Sales","4","2","3","2","3","2","3",21,21,33641,3,2,0
+"1219","Some Travel","Sales","CA","Single","Yes","Yes","Business","White","Male","Sales","4","0","3","5","3","5","3",40,37,226512,1,2,1
+"1221","Some Travel","Technology","CA","Single","Yes","Yes","STEM","White","Male","Software Engineer","4","0","4","3","4","5","3",20,34,22925,0,3,0
+"1222","Some Travel","Technology","NY","Married","No","No","STEM","White","Other","Software Engineer","2","1","5","2","4","3","2",27,5,26542,7,2,0
+"1224","Frequent Traveller","Human Resources","NY","Single","Yes","Yes","Business","White","Female","HR","4","1","2","4","4","3","3",19,31,36832,0,2,0
+"1225","Some Travel","Sales","CA","Single","Yes","Yes","Business","Asian","Male","Sales","2","0","4","1","3","1","4",24,16,29128,0,1,1
+"1226","Some Travel","Technology","CA","Married","No","No","STEM","Asian","Female","Management","3","1","5","2","3","3","4",47,8,287710,8,3,0
+"1227","Frequent Traveller","Technology","NY","Divorced","No","No","STEM","Black","Male","AI/ML","2","3","3","4","5","3","2",29,17,129703,6,2,0
+"1228","Some Travel","Technology","CA","Married","No","No","STEM","White","Male","Software Engineer","3","1","5","2","3","5","3",22,24,44076,1,2,2
+"1229","Some Travel","Sales","NY","Single","No","No","Business","White","Female","Sales","2","0","5","4","5","2","2",23,34,88382,3,2,3
+"1230","Some Travel","Sales","CA","Single","No","No","Business","White","Female","Sales","3","0","4","3","2","4","3",22,16,70202,0,1,0
+"1231","Some Travel","Technology","CA","Married","Yes","No","Business","White","Female","Software Engineer","5","0","4","2","3","1","2",21,6,25149,1,1,0
+"1232","Some Travel","Sales","IL","Divorced","No","No","Business","Black","Male","Management","4","1","3","4","5","4","5",26,17,290774,5,1,2
+"1233","Some Travel","Technology","IL","Divorced","No","No","STEM","White","Female","Software Engineer","3","2","3","3","4","3","4",26,16,25110,5,3,0
+"1234","Some Travel","Sales","CA","Married","No","No","Business","White","Male","Sales","4","1","2","1","2","2","5",25,30,106738,5,1,1
+"1235","Frequent Traveller","Human Resources","CA","Married","Yes","No","HR","Mixed/Other","Female","HR","3","0","4","5","2","3","4",25,3,23547,2,2,1
+"1236","Frequent Traveller","Technology","CA","Single","No","Yes","STEM","Asian","Female","AI/ML","4","0","3","3","4","3","3",36,6,51050,7,1,1
+"1237","Some Travel","Technology","CA","Married","No","No","STEM","Black","Male","AI/ML","2","0","4","5","5","2","4",38,18,89362,9,2,1
+"1238","Some Travel","Technology","CA","Single","No","No","STEM","White","Other","AI/ML","1","0","3","3","2","3","3",23,7,27360,3,1,1
+"1239","Some Travel","Technology","CA","Married","No","No","Business","Mixed/Other","Female","AI/ML","3","1","5","3","4","2","4",36,14,251681,3,3,0
+"1240","Frequent Traveller","Technology","NY","Single","Yes","Yes","STEM","Mixed/Other","Male","AI/ML","3","0","5","5","3","3","2",28,5,76133,1,2,0
+"1241","Frequent Traveller","Technology","IL","Divorced","No","No","STEM","White","Male","AI/ML","2","1","5","3","4","4","4",24,15,63078,5,1,0
+"1242","Some Travel","Technology","CA","Divorced","No","No","Other","White","Male","AI/ML","2","2","3","4","4","5","4",23,5,77420,4,1,1
+"1243","Some Travel","Technology","IL","Married","No","No","Business","Black","Male","Software Engineer","4","1","4","3","2","4","2",32,22,72688,3,2,1
+"1244","Some Travel","Technology","CA","Single","Yes","Yes","STEM","White","Male","Software Engineer","1","0","4","4","5","2","3",21,16,22515,0,3,2
+"1245","Frequent Traveller","Technology","CA","Single","Yes","No","STEM","White","Other","Software Engineer","4","0","3","3","5","5","2",21,29,61345,0,3,1
+"1247","Some Travel","Human Resources","CA","Married","No","No","Business","White","Other","HR","3","2","3","4","4","4","4",23,45,99052,4,2,0
+"1248","Some Travel","Technology","CA","Single","No","No","STEM","Mixed/Other","Female","Software Engineer","3","0","3","2","4","3","4",40,26,120858,9,1,2
+"1249","Some Travel","Technology","CA","Single","No","Yes","STEM","Black","Male","AI/ML","4","0","5","4","4","5","4",43,17,130848,8,2,3
+"1250","No Travel ","Technology","CA","Single","No","No","STEM","White","Female","AI/ML","1","0","4","4","4","4","2",27,12,105398,7,2,0
+"1251","Frequent Traveller","Sales","CA","Single","Yes","No","STEM","White","Male","Sales","3","0","4","3","3","5","4",27,16,50559,5,3,3
+"1252","Some Travel","Technology","CA","Single","No","No","STEM","Asian","Female","AI/ML","3","0","3","3","5","5","3",36,17,72118,7,3,0
+"1254","Some Travel","Technology","CA","Divorced","No","No","STEM","White","Female","Software Engineer","3","1","4","4","4","4","4",43,10,43211,6,1,0
+"1255","Some Travel","Technology","NY","Married","No","No","STEM","White","Female","AI/ML","3","1","5","4","5","3","4",23,12,27347,0,1,0
+"1256","Some Travel","Sales","NY","Single","No","No","Business","Black","Female","Sales","3","0","4","3","3","5","2",48,4,55880,6,1,2
+"1257","No Travel ","Sales","NY","Single","No","Yes","Business","Mixed/Other","Female","Sales","2","0","4","5","5","4","2",33,41,193190,3,1,1
+"1258","Frequent Traveller","Technology","IL","Divorced","No","No","STEM","Asian","Other","AI/ML","3","1","5","3","3","3","3",21,29,64887,3,3,2
+"1259","Some Travel","Technology","NY","Divorced","No","No","STEM","Asian","Female","Software Engineer","3","3","2","1","3","4","3",22,45,80975,4,3,2
+"1260","Some Travel","Technology","CA","Married","No","Yes","STEM","Black","Male","Software Engineer","4","1","4","2","5","4","3",32,30,48377,5,1,1
+"1262","No Travel ","Technology","CA","Married","No","Yes","STEM","White","Female","AI/ML","2","1","5","3","5","4","4",24,25,40342,3,1,3
+"1263","Some Travel","Technology","NY","Married","No","No","STEM","White","Other","AI/ML","4","1","5","2","2","5","4",28,42,85987,1,2,2
+"1264","Some Travel","Technology","CA","Divorced","No","No","STEM","Mixed/Other","Female","Software Engineer","3","1","3","2","2","1","2",23,29,25500,5,1,0
+"1265","Some Travel","Technology","IL","Divorced","No","Yes","Business","White","Female","AI/ML","3","1","4","2","5","5","5",23,4,106418,3,3,0
+"1266","Some Travel","Technology","NY","Married","No","Yes","STEM","White","Female","Management","3","0","3","2","5","5","4",31,42,442820,2,3,2
+"1267","Some Travel","Technology","CA","Married","No","No","STEM","Mixed/Other","Female","Software Engineer","3","2","4","3","2","5","4",25,42,70068,6,2,1
+"1268","Frequent Traveller","Technology","CA","Married","No","No","STEM","Mixed/Other","Female","AI/ML","1","0","2","3","2","3","4",22,21,34193,4,1,2
+"1270","Frequent Traveller","Technology","IL","Single","No","No","STEM","Mixed/Other","Female","Software Engineer","3","0","2","3","3","2","3",29,12,72057,8,1,0
+"1272","Frequent Traveller","Technology","CA","Married","No","No","Other","Black","Female","AI/ML","4","1","3","4","4","3","5",25,15,31931,1,3,2
+"1273","Some Travel","Sales","CA","Single","Yes","Yes","Business","White","Female","Sales","1","0","5","5","2","2","4",27,21,22648,0,3,0
+"1274","Some Travel","Technology","IL","Divorced","No","Yes","STEM","White","Female","AI/ML","1","3","4","3","2","2","3",45,2,64795,8,2,2
+"1275","Some Travel","Technology","IL","Single","Yes","Yes","Business","White","Male","AI/ML","4","0","1","1","4","2","4",30,19,96187,0,1,3
+"1277","Some Travel","Technology","NY","Married","Yes","Yes","STEM","White","Female","AI/ML","3","3","3","4","3","3","4",28,23,35606,4,2,0
+"1278","Some Travel","Technology","CA","Single","No","No","STEM","White","Other","Software Engineer","1","0","5","4","2","3","3",27,1,48442,4,2,2
+"1279","Some Travel","Technology","NY","Married","No","No","STEM","Mixed/Other","Male","AI/ML","1","0","3","4","2","4","3",47,41,40786,5,3,0
+"1280","Some Travel","Human Resources","CA","Married","No","No","Business","Black","Other","HR","1","1","3","2","2","5","5",23,42,30683,5,2,1
