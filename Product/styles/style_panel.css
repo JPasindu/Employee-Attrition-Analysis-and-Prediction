@@ -1,0 +1,116 @@
+/* Base styles for all components */
+#highlight {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+#highlight h2 {
+    color: #2c3e50;
+    font-size: 24px;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
+
+#highlight h3 {
+    font-size: 20px;
+    margin-top: 25px;
+    padding: 12px 0;
+    border-top: 1px solid #e0e0e0;
+    color: #2980b9;
+}
+
+#highlight form {
+    margin: 15px 0;
+    padding: 15px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+#highlight button, #highlight input[type="submit"] {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+    margin: 5px 0;
+}
+
+#highlight ul {
+    padding: 0;
+    margin: 15px 0;
+    list-style: none;
+}
+
+#highlight li {
+    margin-bottom: 12px;
+    padding: 10px;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+
+/* Action Sections */
+.action-section {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 25px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+.action-group {
+    margin: 15px 0;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 6px;
+}
+
+.button-result-group {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.inline-form {
+    display: inline-block;
+    margin: 0;
+}
+
+.result-box {
+    padding: 15px;
+    background: #e8f4fc;
+    border-left: 4px solid #3498db;
+    border-radius: 0 4px 4px 0;
+    margin-top: 10px;
+}
+
+.action-description {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+/* Button styles */
+button, input[type="submit"] {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s;
+    align-self: flex-start;
+}
+
+button:hover, input[type="submit"]:hover {
+    background-color: #2980b9;
+    transform: translateY(-1px);
+}

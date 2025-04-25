@@ -1,0 +1,160 @@
+/* General reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Page background and font */
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f8;
+    color: #333;
+    padding: 40px;
+}
+
+/* Heading style */
+h2 {
+    margin-bottom: 20px;
+    color: #2c3e50;
+    font-size: 28px;
+    border-left: 5px solid #3498db;
+    padding-left: 10px;
+}
+
+/* Table style */
+table {
+    width: 100%;
+    max-width: 800px;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+    background-color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+table th, table td {
+    text-align: left;
+    padding: 14px 20px;
+    border-bottom: 1px solid #ecf0f1;
+}
+
+table th {
+    background-color: #333;
+    color: #fff;
+    width: 30%;
+}
+
+table td {
+    background-color: #fdfdfd;
+}
+
+/* Alternate row color */
+table tr:nth-child(even) td {
+    background-color: #f7f9fa;
+}
+
+/* Back link */
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: #3498db;
+    font-weight: 500;
+    margin-top: 10px;
+    transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+    color: #2c3e50;
+
+    
+}
+
+
+#-----------
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f9;
+    margin: 0;
+    padding: 20px;
+}
+/*
+        h2 {
+            color: #2c3e50;
+        }
+*/
+/*        .container {
+            display: flex;
+            gap: 30px;
+        }
+*/
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+th, td {
+    padding: 10px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #2c3e50;
+    color: white;
+    text-transform: capitalize;
+}
+
+#highlight {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+    min-width: 600px;
+}
+
+/*       a {
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            color: #2980b9;
+        }
+*/
+a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+}
+
+/* Table section (narrowed a bit) */
+.profile-table {
+    flex: 1.4; /* Slightly smaller than before */
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+/* Side panels container */
+.side-panels {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Individual panel boxes */
+.panel-box {
+    background: white;
+    padding: 18px;
+    border-radius: 10px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+
