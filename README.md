@@ -5,10 +5,10 @@
 This project explores, predicts, and simulates employee attrition at Atlas Labs, based on workforce data.  
 Starting from **exploratory data analysis (EDA)**, progressing through **machine learning models**, we finally built a **functional admin panel simulation** to predict individual employee attrition risk and suggest interventions.
 
-**The main goal:**
-👉 Understand why employees leave  
-👉 Predict attrition early  
-👉 Simulate real-world HR decision support using data science
+**Objectives:**
+- Understand why employees leave  
+- Predict attrition early  
+- Simulate real-world HR decision support using data science
 
 ---
 
